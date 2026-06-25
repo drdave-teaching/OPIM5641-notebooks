@@ -1,0 +1,6 @@
+pyomo
+pandas
+numpy
+matplotlib
+seaborn
+# solvers: CBC (linear/integer), Ipopt (nonlinear) — see notebook setup cells
