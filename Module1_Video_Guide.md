@@ -55,7 +55,7 @@ The business capstone of the block (Powell Ch. 14 flavor): a consumer-electronic
 ---
 
 ## Not yet recorded
-`2_MonteCarlo/Big_Ideas_MC_Simulation.ipynb` - the parametric vs. nonparametric deep dive on real S&P history (assumptions table, resampling with replacement, spaghetti plots, mean-vs-median skew, seeded compare-results). Candidate for a Video 12, or studio material.
+**Video 12 candidate — Parametric vs. Nonparametric** · driver: `2_MonteCarlo/Parametric_vs_Nonparametric_MC.ipynb` (NEW - the focused head-to-head: same assumptions, same seed, same 10,000 trials, ONE line of code different; ~95 years of real S&P history feeds both; spaghetti + overlaid histograms; centers agree, tails diverge - and the when-to-choose-which verdict). The fuller `Big_Ideas_MC_Simulation.ipynb` remains as the deep-dive/studio companion.
 
 ---
 
