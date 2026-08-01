@@ -1,0 +1,188 @@
+Place,Type,County,Per capita income,Median household income,Median family income,Population,Number of households
+Woodbridge,Town,New Haven,"$58,594","$133,412","$160,313",8990.0,3084.0
+Brooklyn,Town,Windham,"$25,124",N/A,"$76,224",8210.0,2989.0
+Litchfield,Borough,Litchfield,"$40,635","$68,125","$81,875",1258.0,548.0
+Groton,City,New London,"$28,872","$49,464","$52,366",10389.0,4182.0
+Norfolk,Town,Litchfield,"$43,866","$85,526","$98,098",1709.0,720.0
+Plainville,Town,Hartford,"$31,000","$63,447","$80,205",17716.0,7580.0
+East Lyme,Town,New London,"$37,019","$79,815","$102,864",19159.0,7192.0
+West Hartford,Town,Hartford,"$53,534","$98,530","$136,547",63268.0,25258.0
+Naugatuck,Borough,New Haven,"$27,933","$59,393","$71,021",31862.0,12339.0
+Bethel,Town,Fairfield,"$36,608","$83,483","$99,568",18584.0,6938.0
+Durham,Town,Middlesex,"$38,341","$80,656","$97,211",39559.0,7152.0
+  Voluntown ,Town,New London,"$32,760","$73,980","$76,197",2603.0,1002.0
+Middlefield,Town,Middlesex,"$36,747","$80,392","$94,432",4425.0,1742.0
+Canterbury,Town,Windham,"$30,453","$70,902","$84,093",5132.0,1934.0
+United States,Country,,"$27,334","$51,914","$62,982",308745538.0,116716292.0
+Fenwick,Borough,Middlesex,"$67,318","$148,650","$217,583",2406.0,1077.0
+Thomaston,Town,Litchfield,"$31,652","$63,990","$77,842",7887.0,3108.0
+Stratford,Town,Fairfield,"$32,590","$67,530","$83,369",51384.0,20095.0
+Meriden,City,New Haven,"$27,625","$53,873","$65,450",60868.0,23977.0
+Waterford,Town,New London,"$37,690","$69,810","$91,893",19517.0,8005.0
+Killingly,Town,Windham,"$25,215","$53,192",,17370.0,6749.0
+Ansonia,City,New Haven,"$26,225","$56,541","$71,329",19249.0,7510.0
+Canaan,Town,Litchfield,"$37,283","$54,219","$77,500",1234.0,583.0
+Cromwell,Town,Middlesex,"$41,926","$82,012","$99,362",14005.0,5752.0
+Orange,Town,New Haven,"$44,983","$102,255","$115,685",13956.0,5123.0
+Monroe,Town,Fairfield,"$43,842","$109,727","$119,357",19479.0,6735.0
+Stonington,Town,New London,"$42,184","$72,445","$86,029",18545.0,8115.0
+Simsbury,Town,Hartford,"$41,883","$99,764","$108,564",23511.0,8776.0
+Thompson,Town,Windham,"$27,222","$60,951","$74,613",9458.0,3730.0
+East Haddam,Town,Middlesex,"$37,156","$82,695","$86,023",9126.0,3593.0
+Deep River,Town,Middlesex,"$35,564","$65,250","$81,641",4629.0,1940.0
+Hampton,Town,Windham,"$34,642","$79,943","$84,079",1863.0,747.0
+Plymouth,Town,Litchfield,"$30,081","$71,630","$82,438",12243.0,4803.0
+Franklin,Town,New London,"$31,518","$74,226","$87,237",1922.0,729.0
+Pomfret,Town,Windham,"$33,910","$68,278","$82,917",4247.0,1582.0
+Hartland,Town,Hartford,"$36,874[3]","$85,956","$91,188",2114.0,789.0
+Watertown,Town,Litchfield,"$34,158[3]","$77,771","$93,194",22514.0,8672.0
+Scotland,Town,Windham,"$29,371","$75,417","$79,722",1726.0,637.0
+Suffield,Town,Hartford,"$41,098","$90,023","$99,855",15735.0,5155.0
+Danielson,Borough,Windham,"$22,798","$55,097","$56,831",4051.0,1627.0
+Colchester,Town,New London,"$35,479","$92,431","$101,860",16068.0,5915.0
+Woodmont,Borough,New Haven,"$43,149","$71,667","$99,423",1488.0,691.0
+Sprague,Town,New London,"$31,226","$68,241","$78,438",2984.0,1135.0
+Clinton,Town,Middlesex,"$37,117","$74,174","$82,839",13260.0,5303.0
+Morris,Town,Litchfield,"$36,682","$81,583","$97,381",2388.0,958.0
+Torrington,City,Litchfield,"$25,948","$48,409","$64,476",36383.0,15243.0
+Derby,City,New Haven,"$26,264[3]","$52,029","$58,984",12902.0,5388.0
+Mansfield,Town,Tolland,"$21,579","$65,839","$84,128",26543.0,5586.0
+Montville,Town,New London,"$28,492","$65,349","$80,156",19571.0,6942.0
+Wolcott,Town,New Haven,"$33,572","$78,882","$90,061",16680.0,6007.0
+Old Lyme,Town,New London,"$46,429","$87,025","$112,588",7603.0,3145.0
+Winchester,Town,Litchfield,"$27,264","$57,958","$68,622",11242.0,4815.0
+Lisbon,Town,New London,"$33,685","$77,872","$86,469",4338.0,1659.0
+Sterling,Town,Windham,"$25,557","$64,500","$74,405",3830.0,1383.0
+Putnam,Town,Windham,"$26,506","$51,180","$61,168",9584.0,3950.0
+Bridgewater,Town,Litchfield,"$66,035","$98,424","$113,088",1727.0,753.0
+Chaplin,Town,Windham,"$32,188","$62,679","$72,426",2305.0,920.0
+North Stonington,Town,New London,"$39,588","$88,869","$96,125",5297.0,2052.0
+Chester,Town,Middlesex,"$40,783","$80,185","$89,760",3994.0,1714.0
+Danbury,City,Fairfield,"$31,461","$65,275","$74,420",80893.0,28907.0
+Jewett City,Borough,New London,"$23,876","$39,334","$55,781",3487.0,1466.0
+Hartford,City,Hartford,"$16,798","$28,970","$32,820",124775.0,45124.0
+Middlebury,Town,New Haven,"$44,850",,"$109,750",7575.0,2748.0
+Groton,Town,New London,"$31,110","$56,904","$67,465",40115.0,15809.0
+  East Hartford ,Town,Hartford,"$24,373","$48,613","$57,848",51252.0,20195.0
+Guilford,Town,New Haven,"$65,609","$124,793","$150,902",22019.0,8786.0
+Ledyard,Town,New London,"$37,663","$85,321","$97,152",15051.0,5634.0
+East Haven,Town,New Haven,"$28,638","$59,918","$69,837",29257.0,11756.0
+Harwinton,Town,Litchfield,"$37,902","$85,253","$92,083",5642.0,2170.0
+Trumbull,Town,Fairfield,"$44,006","$102,059","$117,855",36018.0,12725.0
+Bloomfield,Town,Hartford,"$39,738","$68,372","$84,583",20486.0,8554.0
+Windsor,Town,Hartford,"$35,780","$78,695","$90,856",29044.0,11233.0
+Newtown,Town,Fairfield,"$45,308","$108,148","$120,507",27560.0,9459.0
+Avon,Town,Hartford,"$89,357","$146,153","$159,405",18871.0,7318.0
+Newington,Town,Hartford,"$32,561","$69,085","$80,597",30562.0,12550.0
+Old Saybrook,Town,Middlesex,"$43,400","$79,985","$99,595",10242.0,4247.0
+Bristol,City,Hartford,—,"$58,537","$72,038",60477.0,25320.0
+Vernon,Town,Tolland,"$33,160","$61,103","$77,649",29179.0,12976.0
+  Rocky Hill ,Town,Hartford,"$36,021","$72,417","$88,750",19709.0,8307.0
+Wallingford,Town,New Haven,"$33,839","$71,317","$87,641",45135.0,18032.0
+Windham,Town,Windham,N/A,"$40,063","$48,145",25268.0,8906.0
+Salem,Town,New London,"$41,414","$95,000","$106,875",4151.0,1525.0
+  Bolton ,Town,Tolland,"$42,312","$89,432","$93,472",4980.0,1915.0
+Jewett City,Borough,New London,"$23,876","$39,334","$55,781",3487.0,1466.0
+East Granby,Town,Hartford,"$40,698","$77,596","$97,174",5148.0,2062.0
+Norwich,City,New London,"$26,702[3]","$52,186","$62,616",40493.0,16599.0
+Ridgefield,Town,Fairfield,"$75,634","$163,954","$182,820",24638.0,8902.0
+Branford,Town,New Haven,"$41,540","$70,640","$86,696",28026.0,12739.0
+Waterbury,City,New Haven,"$21,545","$40,254","$47,077",110366.0,42761.0
+Stafford,Town,Tolland,"$28,027","$64,494","$69,789",12087.0,4767.0
+Fairfield,Town,Fairfield,"$60,155","$122,306","$152,760",59404.0,20233.0
+Colebrook,Town,Litchfield,"$39,324","$72,000","$85,833",1485.0,589.0
+Beacon Falls,Town,new haven,"$32,710","$81,214","$93,056",6049.0,2360.0
+Glastonbury,Town,hartford,"$84,200","$130,837","$192,018",34564.0,13121.0
+New Hartford,Town,Litchfield,"$41,709","$80,718","$90,172",6970.0,2632.0
+Wethersfield,Town,Hartford,"$37,329","$71,284","$91,563",26668.0,11204.0
+  Bozrah ,Town,New London,"$38,339","$75,000","$99,625",2627.0,1007.0
+East Windsor,Town,Hartford,"$31,162","$64,301","$76,502",11162.0,4750.0
+Connecticut,State,,"$36,775","$67,740","$84,170",3574097.0,1371087.0
+New Haven,City,New Haven,"$21,789","$38,963","$47,432",129779.0,48877.0
+Stonington,Borough,New London,"$55,429","$66,705","$88,194",929.0,508.0
+Union,Town,Tolland,"$32,032","$79,911","$84,750",854.0,334.0
+Madison,Town,New Haven,"$52,413","$107,183","$136,981",18269.0,6779.0
+Farmington,Town,Hartford,"$52,341","$91,712","$120,026",25340.0,10343.0
+Cheshire,Town,New Haven,"$40,498","$107,936","$123,539",29261.0,10041.0
+New Milford,Town,Litchfield,"$38,893","$84,824",N/A,28142.0,10618.0
+Hebron,Town,Tolland,"$39,416[3]","$108,444","$112,894",9686.0,3398.0
+Weston,Town,fairfield,"$92,794","$219,868","$285,612",10179.0,3379.0
+Southington,Town,Hartford,"$36,053","$77,673","$102,186",43069.0,16814.0
+Hamden,Town,New Haven,"$34,596","$66,695","$88,613",60960.0,23727.0
+Oxford,Town,New Haven,,"$107,500","$113,077",12683.0,4504.0
+Berlin,Town,Hartford,"$38,134","$86,211","$98,677",19866.0,7808.0
+North Haven,Town,New Haven,"$38,286","$83,588","$94,916",24093.0,9135.0
+East Hampton,Town,Middlesex,"$34,555","$88,281","$95,854",12959.0,5060.0
+Greenwich,Town,Fairfield,"$90,087",—,"$167,825",61171.0,22083.0
+United States,,,"$41,261","$69,021","$85,028","333,287,557","125,736,353"
+Burlington,Town,Hartford,"$43,392","$115,341","$120,580",9301.0,3291.0
+Washington,Town,Litchfield,"$70,264","$81,354","$89,441",3578.0,1466.0
+Ellington,Town,Tolland,"$37,322","$81,582","$95,547",15602.0,6257.0
+Manchester,Town,Hartford,"$32,752","$61,571","$77,018",58241.0,24689.0
+Lebanon,Town,New London,"$34,608","$72,431","$80,566",7308.0,2644.0
+Woodstock,Town,Windham,"$36,342","$74,000","$88,737",7964.0,3151.0
+Essex,Town,Middlesex,"$53,427","$86,376","$121,447",6683.0,2992.0
+Milford,City,New Haven,"$38,489","$76,973","$92,684",52759.0,21708.0
+Griswold,Town,new london,"$29,421","$59,295","$75,870",11951.0,4646.0
+Kent,Town,Litchfield,"$34,015","$60,714","$94,271",2979.0,1104.0
+Cornwall,Town,Litchfield,"$49,753","$75,833","$91,458",1420.0,568.0
+Litchfield,Town,Litchfield,"$41,649","$78,750","$100,833",8466.0,3459.0
+Winsted,City,Litchfield,"$25,291","$61,404","$68,406",7712.0,3346.0
+Tolland,Town,Tolland,"$45,901","$110,593",N/A,15502.0,5238.0
+Seymour,Town,New Haven,"$32,346","$71,719","$92,981",16540.0,6654.0
+Barkhamsted,Town,Litchfield,"$34,775","$87,656","$107,804",3799.0,1452.0
+Westport,Town,Fairfield,"$97,395","$181,360","$237,353",26391.0,9740.0
+Norwalk,City,Fairfield,"$43,303","$76,161","$93,009",85603.0,33217.0
+Granby,Town,Hartford,"$46,687","$97,500","$111,339",11282.0,4194.0
+Goshen,Town,Litchfield,"$39,562","$76,705","$86,114",2976.0,1192.0
+Prospect,Town,New Haven,"$40,126","$86,526","$99,028",9405.0,3357.0
+Stamford,City,Fairfield,"$44,667","$75,579","$88,050",122643.0,47357.0
+Sherman,Town,Fairfield,"$63,914","$108,398","$115,149",3581.0,1427.0
+Middletown,City,Middlesex,"$31,348","$57,655","$78,006",47648.0,19863.0
+Brookfield,Town,Fairfield,"$63,411","$132,950","$172,383",17550.0,6584.0
+North Canaan,Town,Litchfield,"$26,700","$46,417","$52,604",3315.0,1400.0
+Preston,Town,New London,"$32,956","$77,377","$86,435",4726.0,1869.0
+Salisbury,Town,Litchfield,"$53,332","$82,794","$112,778",3741.0,1518.0
+Killingworth,Town,Middlesex,"$45,404","$99,500","$108,232",6525.0,2474.0
+Plainfield,Town,Windham,"$24,825","$61,500","$69,096",15405.0,5726.0
+Woodbury,Town,Litchfield,"$44,060","$80,595","$100,500",9975.0,4214.0
+Eastford,Town,Windham,"$46,025","$100,673","$130,972",7964.0,3151.0
+Enfield,Town,Hartford,"$29,340","$67,402","$77,554",44654.0,16794.0
+Easton,Town,Fairfield,"$58,532","$131,189","$149,884",7490.0,2682.0
+Willington,Town,Tolland,"$29,616","$62,500","$96,422",6041.0,2423.0
+Bridgeport,City,Fairfield,"$19,854","$41,047","$47,894",144229.0,51255.0
+Bantam,Borough,Litchfield,"$24,284","$42,256","$54,063",759.0,372.0
+Marlborough,Town,Hartford,"$41,669","$108,232","$110,527",6404.0,2292.0
+New Fairfield,Town,Fairfield,"$39,486","$101,067","$108,720",13881.0,4802.0
+North Branford,Town,New Haven,"$36,297","$80,618","$92,083",14407.0,5441.0
+West Haven,City,New Haven,"$25,884","$51,854","$62,330",55564.0,21112.0
+Darien,Town,fairfield,"$105,846","$208,848","$343,456",20732.0,6555.0
+Bethlehem,Town,Litchfield,"$39,704","$82,899","$86,792",3607.0,1411.0
+Newtown,Borough,Fairfield,"$43,916","$106,141","$109,821",1941.0,696.0
+Coventry,Town,tolland,"$34,524","$86,244","$91,931",12435.0,4783.0
+Windsor Locks,Town,Hartford,"$30,436","$59,369","$70,439",12498.0,5223.0
+Redding,Town,Fairfield,"$61,043","$137,916","$152,344",9158.0,3528.0
+Bethany,Town,New Haven,"$47,241","$113,720","$121,701",5563.0,1971.0
+Connecticut,,,"$52,034","$90,213","$114,156","3,626,205","1,409,807"
+Andover,Town,Tolland,"$38,710","$84,274",—,3303.0,1244.0
+Shelton,City,Fairfield,"$39,579","$105,417","$110,583",41141.0,14190.0
+Sharon,Town,Litchfield,"$43,317","$70,104","$74,313",2782.0,1250.0
+Coventry,Town,Tolland,"$34,524",N/A,"$91,931",12435.0,4783.0
+North Branford,Town,New Haven,"$36,297","$80,618","$92,083",14407.0,5441.0
+Haddam,Town,Middlesex,"$37,324","$86,179","$100,343",8346.0,3218.0
+Ashford,Town,Windham,"$32,842","$69,407","$79,157",4317.0,1716.0
+New London,City,New London,"$21,110","$43,551","$49,811",27620.0,10373.0
+Warren,Town,Litchfield,"$49,142","$87,857","$94,583",1461.0,601.0
+Lyme,Town,New London,"$66,822","$123,894","$162,438",18098.0,7024.0
+Roxbury,Town,Litchfield,"$68,446","$96,875","$112,045",2262.0,922.0
+Wilton,Town,Fairfield,"$78,131","$180,313","$205,902",18062.0,5953.0
+  Somers ,Town,tolland,"$35,134","$98,977","$108,636",11444.0,3328.0
+New Canaan,Town,Fairfield,"$105,846","$174,611","$211,875",19738.0,6857.0
+Canton,Town,Hartford,"$46,401","$87,643","$101,793",10292.0,4150.0
+New Britain,City,Hartford,N/A,"$39,706","$45,990",73206.0,28158.0
+South Windsor,Town,Hartford,"$38,945","$88,350","$94,602",25709.0,9918.0
+Southbury,Town,New Haven,"$40,022","$68,041","$104,838",19904.0,8213.0
+Portland,Town,Middlesex,"$39,100","$86,661","$96,016",9508.0,3822.0
+Westbrook,Town,middlesex,"$38,158","$61,069","$72,969",6938.0,2948.0
+Columbia,Town,Tolland,"$36,784","$76,786","$93,295",1749.0,690.0
+,,,,,,,
