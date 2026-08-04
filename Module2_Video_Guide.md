@@ -11,6 +11,10 @@ Watch in order; each video drives one stretch of its notebook. The 🔴 markers 
 ## Notebook 1 · `3_BruteForce/Password_Cracking_Warmup.ipynb`
 **The big ideas:** brute force = N decisions → N nested for loops · enumeration order decides your luck · widening the alphabet multiplies the work, adding length multiplies it harder · a password has ONE right answer, a business has thousands of workable plans - which is why optimization needs an objective.
 
+**Watch and read alongside notebook 1:**
+- 📺 [This Toy Can Open Any Garage](https://www.youtube.com/watch?v=CNodxp9Jy4A) (Veritasium) — the garage-door opener from class: brute force in hardware, sweeping the whole frequency spectrum until a door opens.
+- 📖 [Python `for` loops: `break` and `continue`](https://www.w3schools.com/python/gloss_python_for_break.asp) (W3Schools) — short and practical; we lean on `break` hard here and meet `continue` in the notebooks that follow.
+
 **Video 1 — Brute force warm-up: cracking passwords** *(~8 min)*
 The 1980s garage-door opener that sweeps the whole frequency spectrum and opens anybody's door - that's brute force in one image. The pivot out of Module 1: *is there a distribution of values for your password, or is there one password?* One. That's simulation versus optimization in a sentence. Then the 5-digit PIN with five nested loops (cracked on attempt **12,346** - a PIN's value IS its position in the enumeration), and finally the quiz question you've threatened in class for years: loop a-to-z five deep, **when do you hit `apple`?** Answer: **274,071 guesses**, only 2.3% into the space, because `a` is early - where `zebra` would cost 11.5 million.
 
