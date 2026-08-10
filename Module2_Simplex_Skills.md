@@ -1,0 +1,97 @@
+# Module 2.2 Skills Sheet - The Simplex Method
+
+**OPIM 5641 - Business Decision Modeling · Dr. Dave Wanik · University of Connecticut**
+
+After the Simplex videos and notebooks, these are the skills you own. Module 2.1 taught you to *draw* an
+optimization problem. This is where you learn to solve it **algebraically**, in as many dimensions as you
+like. Check yourself off - if one feels shaky, the notebook to revisit is named right there.
+
+---
+
+## 🧭 Why Simplex exists
+*Notebook: `5_Simplex/0_BigIdeas_Simplex_vs_Graphical.ipynb`*
+
+- [ ] Rank the three methods you know by efficiency on the **same** problem, with numbers: ~10 million
+      brute-force combinations → 5 graphical corner points → **3 Simplex solutions**
+- [ ] Explain in one sentence what Simplex *is*: an **iterative algebraic technique** - the algebraic
+      extension of the geometric graphical method
+- [ ] Say exactly why the graphical method had to be replaced (**it only works in two dimensions**) and
+      what Simplex buys you (3D, 5D, **40D**)
+
+## 📐 The geometry behind the algebra
+*Notebook: `0_BigIdeas_Simplex_vs_Graphical.ipynb`*
+
+- [ ] Define **adjacent** corner points precisely: they **share a constraint boundary**
+- [ ] State the **optimality test** in full: no adjacent CPF solution is better as measured by $Z$ → this
+      corner point is optimal
+- [ ] Explain why Simplex **traces the edges** of the feasible region instead of searching the interior
+- [ ] Use the **slope / profit contribution** to decide which axis to travel *before* knowing any
+      neighbor's value (\$3,000 across $x_1$ vs. \$5,000 up $x_2$ - be greedy)
+- [ ] Tell a **corner point** from a **corner point feasible** solution - and explain why $(0,9)$ is the
+      first but not the second
+
+## ➕ Augmented form and slack variables
+*Notebook: `0_BigIdeas_Simplex_vs_Graphical.ipynb`*
+
+- [ ] Convert every inequality into an **equation** by adding **one slack variable per constraint**
+- [ ] Say what a slack variable *means* in the business: **surplus / the unused quantity / idle capacity**
+- [ ] Compute a slack value by hand ($x_1 \le 4$ with $x_1 = 1$ → $x_3 = 3$)
+- [ ] Rewrite the objective function with everything on the **left-hand side** and a constant on the right
+- [ ] Write a solution in **augmented form** - decision variables *and* slacks
+- [ ] Explain why the **origin** is the free initialization point (and why "make nothing" is feasible)
+
+## 🔑 Basic vs. non-basic - the vocabulary everything rests on
+*Notebook: `0_BigIdeas_Simplex_vs_Graphical.ipynb`*
+
+- [ ] Recite the rule cold: **non-basic = zero, basic = non-zero** (yes, it feels backwards)
+- [ ] Spot basic variables in a tableau on sight: **appears once, coefficient of 1**
+- [ ] Spot non-basic variables on sight: the column is **full of junk**
+- [ ] Use **degrees of freedom** to say how many variables must be zeroed out ($n$ variables, $m$
+      equations → $n - m$ set to zero)
+- [ ] State that the **number of basic variables equals the number of functional constraints**
+- [ ] Explain the difference between a **basic solution** and a **basic *feasible* solution**
+
+## 🔄 Running the algorithm
+*Notebooks: `1_General Simplex Maximization Steps.ipynb` · `Wyndor_Glass_Simplex_Method.ipynb`*
+
+- [ ] Build the **initial simplex tableau**: one column per decision + slack variable, one row per
+      constraint, **objective function in the BOTTOM row**
+- [ ] Explain why the bottom row carries **negative** coefficients (you moved everything to one side)
+- [ ] Pick the **entering variable**: the biggest negative number in the bottom row
+- [ ] Run the **minimum ratio test** to pick the **departing** variable - and know that a zero denominator
+      is unbounded and doesn't count
+- [ ] Identify the **pivot element** and turn it into a **1** by dividing its whole row
+- [ ] Apply **Gauss-Jordan elimination** - add multiples of the pivot row to clear the rest of the column
+- [ ] Justify why row operations are legal (**multiplying a line by a constant gives the same line**)
+- [ ] Apply the **stopping rule**: no negatives in the bottom row → optimal
+- [ ] **Read off** the final solution in augmented form, including $Z$
+- [ ] Do a full 2D maximization **by hand, on paper**, start to finish
+
+## 🔗 Tying it back
+*Notebooks: `Wyndor_Glass_Simplex_Method.ipynb` + the handwritten notes PDF*
+
+- [ ] Map each pivot to a point on the graph you already drew: origin → $(0,6)$, $Z=30$ → $(2,6)$, $Z=36$
+- [ ] Solve **Wyndor Glass** three ways and get **\$36,000 at $(2,6)$** every time
+- [ ] Tell a **binding** constraint from a **non-binding** one by looking at whether its slack went to zero
+- [ ] Say why binding constraints matter later (**sensitivity analysis**, Module 3)
+- [ ] Follow the **handwritten notes** (page 13) alongside the Colab notebook and reproduce every
+      intermediate row operation
+
+## ✅ Assessment readiness
+
+- [ ] Translate a word problem into **augmented form** *(first 10 points)*
+- [ ] Write the **initial simplex tableau** *(another 10 points)*
+- [ ] Perform the iterations and read off the solution in augmented form
+- [ ] Survive the place people actually lose points: **careless arithmetic in the intermediate row
+      operations**
+- [ ] Know what is **not** tested: the longhand algebraic walk from videos 18-20
+
+---
+
+## The one-sentence version
+
+> **You can take a linear program, write it in augmented form, build a tableau with the objective on the
+> bottom, and pivot your way to the provably optimal corner - in as many dimensions as the problem has,
+> long after the picture stops being drawable.**
+
+Next stop: **Pyomo** - where you hand all of this to a solver, and it is no longer a black box.
