@@ -14,14 +14,14 @@ Each module comes in three parts:
 
 ## The course, by sub-module
 
-| Sub-module | Topic | Notebooks | Guides |
-|---|---|---|---|
-| **M1.1** | Exploratory data analysis | [`1_EDA_Intro/`](../1_EDA_Intro) | [Video Guide](M1_Video_Guide.md) · [Skills](M1_Skills.md) · [Talking Points](M1_Talking_Points.md) |
-| **M1.2** | Monte Carlo simulation | [`2_MonteCarlo/`](../2_MonteCarlo) | *(same three — Module 1 guides cover both)* |
-| **M2.1** | Brute force optimization | [`3_BruteForce/`](../3_BruteForce) | [Video Guide](M2_Video_Guide.md) · [Skills](M2_Skills.md) · [Talking Points](M2_Talking_Points.md) |
-| **M2.2** | The graphical method | [`4_Graphical/`](../4_Graphical) | *(same three — Module 2 guides cover both)* |
-| **M2.3** | The Simplex method | [`5_Simplex/`](../5_Simplex) | [Video Guide](M2.3_Simplex_Video_Guide.md) · [Skills](M2.3_Simplex_Skills.md) · [Talking Points](M2.3_Simplex_Talking_Points.md) |
-| **M3** | Pyomo — allocation, covering, blending, sensitivity | [`6_Pyomo_LP/`](../6_Pyomo_LP) | *coming* |
+| Sub-module | Topic | Notebooks | 📺 Video Guide | ✅ Skills | 🧠 Talking Points |
+|---|---|---|---|---|---|
+| **M1.1** | Exploratory data analysis | [`1_EDA_Intro/`](../1_EDA_Intro) | [Videos](M1.1_EDA_Video_Guide.md) | [Skills](M1.1_EDA_Skills.md) | [Theory](M1.1_EDA_Talking_Points.md) |
+| **M1.2** | Monte Carlo simulation | [`2_MonteCarlo/`](../2_MonteCarlo) | [Videos](M1.2_MonteCarlo_Video_Guide.md) | [Skills](M1.2_MonteCarlo_Skills.md) | [Theory](M1.2_MonteCarlo_Talking_Points.md) |
+| **M2.1** | Brute force optimization | [`3_BruteForce/`](../3_BruteForce) | [Videos](M2.1_BruteForce_Video_Guide.md) | [Skills](M2.1_BruteForce_Skills.md) | [Theory](M2.1_BruteForce_Talking_Points.md) |
+| **M2.2** | The graphical method | [`4_Graphical/`](../4_Graphical) | [Videos](M2.2_Graphical_Video_Guide.md) | [Skills](M2.2_Graphical_Skills.md) | [Theory](M2.2_Graphical_Talking_Points.md) |
+| **M2.3** | The Simplex method | [`5_Simplex/`](../5_Simplex) | [Videos](M2.3_Simplex_Video_Guide.md) | [Skills](M2.3_Simplex_Skills.md) | [Theory](M2.3_Simplex_Talking_Points.md) |
+| **M3** | Pyomo — allocation, covering, blending, sensitivity | [`6_Pyomo_LP/`](../6_Pyomo_LP) | *coming* | *coming* | *coming* |
 
 Every notebook's banner tells you which sub-module it belongs to, so you can always tell where you are.
 
