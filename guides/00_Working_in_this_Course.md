@@ -10,7 +10,7 @@ Five minutes now saves you a semester of "wait, where did my work go?" Here's th
 
 - **Notebooks (this repo):** [github.com/drdave-teaching/OPIM5641-notebooks](https://github.com/drdave-teaching/OPIM5641-notebooks) - every lecture notebook, organized by topic folder. Public - no GitHub account needed just to *view*.
 - **The ebook:** [drdave-teaching.github.io/opim5641-textbook](https://drdave-teaching.github.io/opim5641-textbook/) - chapter prose + links back to the notebooks.
-- **Module guides:** [Skills](Module1_Skills.md) · [Talking Points](Module1_Talking_Points.md) · [Video Guide](Module1_Video_Guide.md) - what you can do, what you should understand, what each video covers.
+- **Module guides:** [Skills](M1_Skills.md) · [Talking Points](M1_Talking_Points.md) · [Video Guide](M1_Video_Guide.md) - what you can do, what you should understand, what each video covers.
 - **HuskyCT:** announcements, gradebook, and the weekly schedule. When in doubt, start there.
 
 ## 2 · Open a notebook (10 seconds)

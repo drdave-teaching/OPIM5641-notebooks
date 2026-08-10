@@ -117,4 +117,4 @@ Two more edge cases live in the folder as self-study. They follow the same recip
 
 ---
 
-*Companions: [Module2_Skills.md](Module2_Skills.md) · [Module2_Talking_Points.md](Module2_Talking_Points.md) · [Working in this Course](Module1_Working_in_this_Course.md)*
+*Companions: [Skills](M2_Skills.md) · [Talking Points](M2_Talking_Points.md) · [Working in this Course](00_Working_in_this_Course.md)*

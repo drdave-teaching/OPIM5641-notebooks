@@ -59,4 +59,4 @@ The business capstone of the block (Powell Ch. 14 flavor): a consumer-electronic
 
 ---
 
-*Companions: [Module1_Skills.md](Module1_Skills.md) (what you can do now) · [Module1_Talking_Points.md](Module1_Talking_Points.md) (the theory you should be able to explain).*
+*Companions: [Skills](M1_Skills.md) (what you can do now) · [Talking Points](M1_Talking_Points.md) (the theory you should be able to explain).*
