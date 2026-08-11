@@ -21,7 +21,7 @@ Each module comes in three parts:
 | **M2.1** | Brute force optimization | [`3_BruteForce/`](../3_BruteForce) | [Videos](M2.1_BruteForce_Video_Guide.md) | [Skills](M2.1_BruteForce_Skills.md) | [Theory](M2.1_BruteForce_Talking_Points.md) |
 | **M2.2** | The graphical method | [`4_Graphical/`](../4_Graphical) | [Videos](M2.2_Graphical_Video_Guide.md) | [Skills](M2.2_Graphical_Skills.md) | [Theory](M2.2_Graphical_Talking_Points.md) |
 | **M2.3** | The Simplex method | [`5_Simplex/`](../5_Simplex) | [Videos](M2.3_Simplex_Video_Guide.md) | [Skills](M2.3_Simplex_Skills.md) | [Theory](M2.3_Simplex_Talking_Points.md) |
-| **M3** | Pyomo — allocation, covering, blending, sensitivity | [`6_Pyomo_LP/`](../6_Pyomo_LP) | *coming* | *coming* | *coming* |
+| **M3.1** | Pyomo — allocation, covering, blending, sensitivity | [`6_Pyomo_LP/`](../6_Pyomo_LP) | [Videos](M3.1_Pyomo_Video_Guide.md) | [Skills](M3.1_Pyomo_Skills.md) | [Theory](M3.1_Pyomo_Talking_Points.md) |
 
 Every notebook's banner tells you which sub-module it belongs to, so you can always tell where you are.
 
