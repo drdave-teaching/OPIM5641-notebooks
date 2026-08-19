@@ -24,6 +24,7 @@ Each module comes in three parts:
 | **M3.1** | Pyomo — allocation, covering, blending, sensitivity | [`6_Pyomo_LP/`](../6_Pyomo_LP) | [Videos](M3.1_Pyomo_Video_Guide.md) | [Skills](M3.1_Pyomo_Skills.md) | [Theory](M3.1_Pyomo_Talking_Points.md) |
 | **M4.1** | Nonlinear — curves, regression as optimization, warehouse location | [`7_Nonlinear/`](../7_Nonlinear) | [Videos](M4.1_Nonlinear_Video_Guide.md) | [Skills](M4.1_Nonlinear_Skills.md) | [Theory](M4.1_Nonlinear_Talking_Points.md) |
 | **M4.2** | Portfolios — Ms. Womack, covariance, the risk/reward frontier | [`7_Nonlinear/`](../7_Nonlinear) | [Videos](M4.2_Portfolio_Video_Guide.md) | [Skills](M4.2_Portfolio_Skills.md) | [Theory](M4.2_Portfolio_Talking_Points.md) |
+| **M5.1** | Integer programming — binary decisions, project selection, linking constraints | [`8_Integer/`](../8_Integer) | [Videos](M5.1_Integer_Video_Guide.md) | [Skills](M5.1_Integer_Skills.md) | [Theory](M5.1_Integer_Talking_Points.md) |
 
 Every notebook's banner tells you which sub-module it belongs to, so you can always tell where you are.
 
