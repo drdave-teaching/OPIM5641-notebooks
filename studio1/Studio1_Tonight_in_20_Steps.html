@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Studio 1 — Tonight in 20 steps</title>
+<style>
+  @page { size: letter; margin: 0.38in 0.5in; }
+  * { box-sizing: border-box; }
+  body { font-family: "Segoe UI", Arial, sans-serif; color: #1a1a1a; font-size: 9.2pt; line-height: 1.25; margin: 0; }
+  .hdr { display: flex; justify-content: space-between; align-items: baseline; border-bottom: 3px solid #1a1a1a; padding-bottom: 6px; }
+  .hdr h1 { font-size: 14.5pt; margin: 0; font-weight: 800; }
+  .hdr h1 .sub { color: #8a8a8a; font-weight: 700; }
+  .hdr h1 .tiny { color: #a5a5a5; font-weight: 400; font-size: 11pt; }
+  .meta { text-align: right; color: #666; font-size: 8.5pt; line-height: 1.3; }
+  .lede { background: #f2f2f2; border-left: 4px solid #1a1a1a; padding: 4px 9px; margin: 7px 0 2px 0; font-size: 9.1pt; }
+  h2 { font-size: 10.4pt; margin: 5px 0 1px 0; border-bottom: 1px solid #cfcfcf; padding-bottom: 2px; font-weight: 800; }
+  h2 .range { color: #9a9a9a; font-weight: 600; font-size: 8.5pt; margin-left: 6px; }
+  ol.steps { list-style: none; margin: 3px 0 0 0; padding: 0; counter-reset: step var(--start, 0); }
+  ol.steps li { counter-increment: step; position: relative; padding-left: 23px; margin-bottom: 2.2px; }
+  ol.steps li::before { content: counter(step); position: absolute; left: 0; top: 1px; width: 16px; height: 16px;
+    background: #1a1a1a; color: #fff; border-radius: 50%; font-size: 8.4pt; font-weight: 700;
+    display: flex; align-items: center; justify-content: center; }
+  code { font-family: Consolas, "Courier New", monospace; font-size: 8.3pt; background: #ececec;
+    border: 1px solid #d5d5d5; border-radius: 3px; padding: 0 3px; white-space: nowrap; }
+  .boxes { display: flex; gap: 10px; margin-top: 8px; }
+  .box { flex: 1; border: 1.2px solid #9a9a9a; border-radius: 6px; padding: 4px 9px; font-size: 8.4pt; }
+  .box h3 { margin: 0 0 4px 0; font-size: 10pt; }
+  .box ul { margin: 0; padding-left: 16px; }
+  .box li { margin-bottom: 2.5px; }
+  b { font-weight: 700; }
+</style>
+</head>
+<body>
+
+<div class="hdr">
+  <h1>Studio 1 — Data ER + Retirement MC &middot; <span class="sub">Tonight in 20 steps</span></h1>
+  <div class="meta">OPIM 5641 &middot; Business Decision Modeling<br>Stamford &middot; Wed Sept 9 &middot; 5:30&ndash;7:30 PM</div>
+</div>
+
+<div class="lede"><b>The thesis tonight: when you have data, explore it; when you don&rsquo;t, simulate it.</b>
+Part 1 = 117,888 real PPP loans (data you have). Part 2 = your retirement in 35 years (data you don&rsquo;t).
+Everything runs in the browser &mdash; nothing to install.</div>
+
+<h2>Set up <span class="range">steps 1&ndash;4</span></h2>
+<ol class="steps" style="--start: 0">
+  <li><b>Hand in Math Check #1</b> (paper). Didn&rsquo;t finish? Upload your scan to HuskyCT by <b>Friday, Sept 11</b>.</li>
+  <li><b>Sign in to github.com.</b> No <code>opim5641-work</code> repo yet? <b>+ New repository</b> &rarr; name it exactly that &rarr; Create. (Public or private &mdash; either is fine.)</li>
+  <li>Open HuskyCT &rarr; Module 1 &rarr; <b>Studio 1</b> page &rarr; click <b>Open the PPP Data ER notebook in Colab</b>.</li>
+  <li>Sign in with any Google account if Colab asks. You should see the notebook with empty <code>YOUR CODE HERE</code> cells &mdash; that&rsquo;s right, we fill them together.</li>
+</ol>
+
+<h2>Part 1 — Data ER: PPP loans in CT <span class="range">steps 5&ndash;12 &middot; in pairs</span></h2>
+<ol class="steps" style="--start: 4">
+  <li><b>Run the import + load cell</b> (&#9654; or Shift+Enter). The 54&nbsp;MB CSV loads from the course repo &mdash; give it ~20 seconds. <code>df.shape</code> should say <b>(117888, 53)</b>.</li>
+  <li>Keep the <b>data dictionary</b> open (linked in the notebook) &mdash; official meaning of every column, and which ones lie.</li>
+  <li><b>Triage:</b> <code>df.info()</code>, then the missing-value census. With your partner: which holes actually matter?</li>
+  <li><b>Duplicates:</b> check <code>LoanNumber</code> (unique) vs <code>BorrowerName</code> (repeats!). Why is a repeated business <i>not</i> necessarily a duplicate?</li>
+  <li><b>Describe the money:</b> <code>describe()</code>, then the log-scale histogram. Find the top-10 loans &mdash; recognize anyone?</li>
+  <li><b>Mean vs median</b> on <code>InitialApprovalAmount</code> &mdash; same muscle as Math Check #1. What does the gap say?</li>
+  <li><b>Sectors + cities + dollars-per-job:</b> run the NAICS grouping, the city counts (spot the spelling dirt), and the <code>dollars_per_job</code> smell test.</li>
+  <li><b>Write your 3 findings</b> at the bottom: each = one plot or table + two sentences. Then <b>File &rarr; Save a copy in GitHub</b> &rarr; <code>opim5641-work</code>. &#9733; This is the habit.</li>
+</ol>
+
+<h2>Part 2 — Retirement Monte Carlo <span class="range">steps 13&ndash;18</span></h2>
+<ol class="steps" style="--start: 12">
+  <li>Back to the Studio 1 page &rarr; <b>Open the Retirement Monte Carlo notebook in Colab</b>.</li>
+  <li><b>One future:</b> <code>np.random.seed(5641)</code>, one for-loop, one 35-year path. Run it twice &mdash; why is one run worthless?</li>
+  <li><b>Ten thousand futures:</b> wrap the loop, histogram the endings, read the 25th / median / 75th lines.</li>
+  <li><b>Spaghetti plot:</b> every future at once. Find the median path in the noodles.</li>
+  <li><b>The twist:</b> replace <code>np.random.normal(0.07, 0.20)</code> with <code>sp['sp500_total_return'].sample(n=years, replace=True).values</code> &mdash; resample <b>98 years of real S&amp;P history</b>. One line changes; the tails get fat.</li>
+  <li><b>Answer with a probability:</b> P(&ge; $1M) and P(&lt; $500k) under both beliefs. Which one would you plan your life around?</li>
+</ol>
+
+<h2>Wrap <span class="range">steps 19&ndash;20</span></h2>
+<ol class="steps" style="--start: 18">
+  <li><b>File &rarr; Save a copy in GitHub</b> again &rarr; both notebooks now live in your repo. Second rep of the habit.</li>
+  <li>Check your repo on github.com &mdash; two notebooks there = you&rsquo;re done. Preview of Week 3: brute force (feel the explosion).</li>
+</ol>
+
+<div class="boxes">
+  <div class="box">
+    <h3>Don&rsquo;t panic</h3>
+    <ul>
+      <li><b>Colab disconnected?</b> Runtime &rarr; Run all. Nothing is lost that a re-run can&rsquo;t rebuild.</li>
+      <li><b>Data won&rsquo;t load?</b> It streams from a URL &mdash; check wifi, re-run the cell. Nothing to download by hand.</li>
+      <li><b>Missing &ne; zero.</b> A blank <code>ForgivenessAmount</code> is a question, not a $0.</li>
+      <li><b>Save a copy in GitHub</b> grayed out? You skipped the GitHub sign-in &mdash; Colab will prompt you.</li>
+      <li>Behind? Fine. The <b>filled</b> versions of both notebooks are in the same repo folder &mdash; catch up any time.</li>
+    </ul>
+  </div>
+  <div class="box">
+    <h3>Done at 7:30 when&hellip;</h3>
+    <ul>
+      <li>Your <code>opim5641-work</code> repo holds <b>both notebooks</b></li>
+      <li>Your PPP notebook has <b>3 findings</b>, each with a plot/table + 2 sentences</li>
+      <li>You&rsquo;ve seen the normal vs bootstrap histograms disagree &mdash; and can say <i>why</i> in one sentence</li>
+      <li>You answered a life question <b>with a probability</b>, not a single number</li>
+      <li>Math Check #1 is out of your hands (paper tonight or upload by Friday)</li>
+    </ul>
+  </div>
+</div>
+
+</body>
+</html>
