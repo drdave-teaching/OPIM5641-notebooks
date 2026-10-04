@@ -1,0 +1,12 @@
+nutrient,label,rule,per_player
+calories,Calories,min,4000
+calories,Calories,max,5500
+protein,Protein (g),min,150
+carbs,Carbohydrates (g),min,450
+fiber,Fiber (g),min,30
+fat,Fat (g),max,180
+sodium,Sodium (mg),max,7000
+vitamin_a_dv,Vitamin A (% Daily Value),min,100
+vitamin_c_dv,Vitamin C (% Daily Value),min,100
+calcium_dv,Calcium (% Daily Value),min,100
+iron_dv,Iron (% Daily Value),min,100
