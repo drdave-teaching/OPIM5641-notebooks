@@ -1,0 +1,20 @@
+item,category,price,calories,protein,carbs,fiber,sugar,fat,sat_fat,sodium
+Pink Drink (grande),Beverages,6.75,140,1,27,1,24,2.5,2.5,60
+"Double-Smoked Bacon, Cheddar & Egg Sandwich",Sandwiches,7.75,490,21,40,1,7,27,13,910
+"Sausage, Cheddar & Egg Sandwich",Sandwiches,6.55,500,15,41,1,3,28,9,920
+"Bacon, Gouda & Egg Sandwich",Sandwiches,7.15,370,18,32,1,1,19,7,850
+"Spinach, Feta & Egg White Wrap",Sandwiches,6.55,290,19,33,6,4,10,3.5,830
+Bacon & Gruyère Egg Bites,Entrees,7.15,310,19,9,0,2,22,14,600
+Egg White & Roasted Red Pepper Egg Bites,Entrees,7.15,170,13,13,1,2,7,5,500
+Rolled & Steel-Cut Oatmeal,Entrees,4.95,160,5,28,4,0,2.5,0.5,125
+Chocolate Croissant,Baked Goods,5.25,340,5,38,2,13,20,0,280
+Cheese Danish,Baked Goods,5.25,290,7,33,1,11,14,0,400
+Butter Croissant,Baked Goods,4.65,260,5,27,1,5,15,1,320
+Iced Lemon Loaf,Baked Goods,5.25,470,6,68,1,42,20,9,310
+Petite Vanilla Bean Scone,Baked Goods,2.45,120,2,18,0,8,4.5,2,95
+Plain Bagel,Baked Goods,4.05,280,9,56,2,2,1.5,0,620
+Birthday Cake Pop,Desserts,4.05,170,1,23,0,18,9,5,110
+Chocolate Cake Pop,Desserts,4.05,160,2,23,1,18,8,4.5,80
+Chocolate Chip Cookie,Desserts,4.25,310,4,42,2,27,15,9,260
+Double Chocolate Brownie,Desserts,5.25,410,6,46,3,30,24,7,75
+Cheese & Fruit Protein Box,Entrees,8.35,450,20,34,4,15,27,13,620

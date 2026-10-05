@@ -1,0 +1,13 @@
+item,category,price,calories,protein,carbs,fiber,sugar,fat,sat_fat,sodium
+Original Krystal,Burgers,1.79,130,6,15,1,1,6,2,300
+Cheese Krystal,Burgers,2.39,150,7,15,1,1,8,3.5,430
+Bacon Cheese Krystal,Burgers,3.49,190,10,16,1,2,10,4.5,570
+Small Fries,Fried Potatoes,3.39,140,2,14,2,0,9,3.5,140
+Chili Cheese Pup,Sandwiches,2.89,290,14,23,2,1,19,11,730
+Classic Pup,Sandwiches,1.89,160,6,21,1,1,9,4,450
+Apple Turnover,Baked Goods,2.49,290,3,31,1,11,18,8,190
+Double Krystal,Burgers,2.99,190,10,16,1,1,11,4,420
+Corn Pup,Sandwiches,2.89,250,5,18,0,5,17,8,510
+Classic Chik,Sandwiches,4.29,280,12,23,2,2,16,4,570
+Large Fries,Fried Potatoes,3.99,300,3,30,3,0,19,7,300
+Medium Fries,Fried Potatoes,3.89,240,3,24,3,0,15,6,240

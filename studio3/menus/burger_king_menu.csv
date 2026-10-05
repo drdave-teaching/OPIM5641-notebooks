@@ -1,0 +1,19 @@
+item,category,price,calories,protein,carbs,fiber,sugar,fat,sat_fat,sodium
+Whopper,Burgers,7.59,500,28,49,2,11,22,9,840
+Whopper Jr.,Burgers,4.49,310,13,27,1,7,18,5,390
+Bacon King,Burgers,12.49,1150,61,49,2,10,79,31,2150
+Double Whopper,Burgers,11.09,740,47,49,2,11,40,17,910
+Bacon Cheeseburger,Burgers,4.19,300,15,27,1,7,15,6,710
+Rodeo Burger,Burgers,3.29,310,12,38,1,9,12,4,440
+Original Chicken Sandwich,Sandwiches,7.09,450,28,48,2,4,16,3.5,990
+Chicken Jr.,Sandwiches,3.19,450,12,34,2,5,30,5,780
+Big Fish,Sandwiches,7.09,510,16,51,2,7,28,4.5,1180
+French Fries (medium),Fried Potatoes,4.29,380,5,53,4,0,17,3,570
+Onion Rings (medium),Appetizers & Sides,4.29,410,4,53,4,5,21,3.5,1080
+Minute Maid Lemonade,Beverages,3.69,140,0,39,0,39,0,0,60
+Fat Free Milk,Beverages,2.89,90,9,13,0,12,0,0,125
+Classic Oreo Shake,Beverages,5.49,730,15,121,1,100,21,11,550
+Chocolate Oreo Shake,Beverages,5.49,610,13,99,1,81,19,12,560
+Vanilla Shake,Beverages,5.19,580,14,98,0,85,15,10,420
+Strawberry Shake,Beverages,5.19,640,14,113,0,99,15,10,440
+Soft Serve Cup,Desserts,1.99,170,5,28,0,24,4.5,3,150

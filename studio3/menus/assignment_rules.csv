@@ -1,0 +1,9 @@
+nutrient,label,rule,per_player
+calories,Calories,min,4000
+calories,Calories,max,5500
+protein,Protein (g),min,150
+fiber,Fiber (g),min,25
+fat,Fat (g),max,230
+sat_fat,Saturated fat (g),max,85
+sugar,Sugar (g),max,175
+sodium,Sodium (mg),max,9000

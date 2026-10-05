@@ -1,0 +1,29 @@
+item,category,price,calories,protein,carbs,fiber,sugar,fat,sat_fat,sodium
+Mini Chocolate Shake,Beverages,2.69,250,7,50,0,40,3.5,3,170
+Mini Vanilla Shake,Beverages,2.69,220,7,42,0,35,3.5,3,150
+Mini Real Strawberry Shake,Beverages,2.69,240,7,48,0,40,3.5,2.5,150
+Original Chicken Cheddar Roller,Sandwiches,2.89,250,14,30,1,0,9,3,750
+Chipotle Chicken Cheddar Roller,Sandwiches,2.89,280,14,29,1,0,12,3.5,730
+Mini Cheddar Quesadilla,Entrees,1.69,130,5,14,1,0,6,6,300
+Bean & Cheese Cup,Appetizers & Sides,2.59,320,20,52,18,1,3.5,2,830
+Beer Battered Fish Taco,Sandwiches,3.89,230,7,26,3,2,12,2,470
+The Del Taco (crunchy),Sandwiches,2.89,310,17,14,2,2,20,11,320
+The Del Taco (soft),Sandwiches,2.89,300,18,17,2,2,18,12,410
+Grilled Chicken Taco,Sandwiches,2.89,210,12,16,1,1,12,5,590
+Del Beef Burrito,Sandwiches,5.89,500,27,40,3,2,24,12,810
+8 Layer Veggie Burrito,Sandwiches,5.79,540,18,72,9,3,18,8,1200
+1/2 lb Bean & Cheese Red Burrito,Sandwiches,2.89,470,21,69,13,0,10,6,1220
+1/2 lb Bean & Cheese Green Burrito,Sandwiches,2.89,450,21,70,12,0,10,6,1250
+Chicken Cheddar Quesadilla,Entrees,6.89,550,34,33,1,0,31,16,1190
+Spicy Jack Chicken Quesadilla,Entrees,6.89,550,34,36,1,0,31,14,1170
+Spicy Jack Quesadilla,Entrees,5.89,460,23,33,1,0,27,14,830
+Cheddar Quesadilla,Entrees,5.89,460,22,31,1,0,26,16,850
+Crunchtada Tostada,Sandwiches,2.79,330,12,38,7,1,14,4.5,400
+Crinkle Cut Fries (medium),Fried Potatoes,4.19,320,4,34,4,0,19,3,370
+Del Cheeseburger,Burgers,3.89,470,17,34,1,7,28,10,850
+Double Del Cheeseburger,Burgers,6.49,690,30,35,1,7,47,18,1230
+Carne Asada Steak Fries,Fried Potatoes,8.19,810,24,46,6,2,59,15,1360
+Bacon Double Del Cheeseburger,Burgers,7.19,740,33,35,1,7,51,20,1400
+Chili Cheddar Fries,Fried Potatoes,6.49,570,15,42,5,1,35,11,810
+Deluxe Chili Cheddar Fries,Fried Potatoes,7.39,610,16,44,6,2,37,13,820
+Chips & Queso,Appetizers & Sides,3.89,290,6,29,1,1,17,5,570

@@ -1,0 +1,22 @@
+restaurant,file,items,prices_updated,use,cheapest_per_person_assignment_rules
+McDonald's,mcdonalds_menu.csv,23,"July 11, 2026",class example,36.64
+Arby's,arbys_menu.csv,18,"July 12, 2026",assignment,39.14
+Bojangles,bojangles_menu.csv,17,"July 26, 2026",assignment,41.46
+Burger King,burger_king_menu.csv,18,"July 11, 2026",assignment,46.39
+Chick-fil-A,chick_fil_a_menu.csv,21,"July 24, 2026",assignment,44.78
+Culver's,culvers_menu.csv,14,"August 16, 2026",assignment,53.53
+Dairy Queen,dairy_queen_menu.csv,13,"July 12, 2026",assignment,43.68
+Del Taco,del_taco_menu.csv,28,"July 27, 2026",assignment,27.47
+Hardee's,hardees_menu.csv,11,"July 28, 2026",assignment,48.57
+Jack in the Box,jack_in_the_box_menu.csv,30,"July 12, 2026",assignment,33.09
+Krystal,krystal_menu.csv,12,"July 30, 2026",assignment,52.36
+Panera Bread,panera_bread_menu.csv,30,"July 26, 2026",assignment,35.85
+Sonic,sonic_menu.csv,18,"July 22, 2026",assignment,31.26
+Starbucks,starbucks_menu.csv,19,"July 11, 2026",assignment,60.89
+Steak 'n Shake,steak_n_shake_menu.csv,13,"July 28, 2026",assignment,26.14
+Subway,subway_menu.csv,16,"July 12, 2026",assignment,44.83
+Taco Bell,taco_bell_menu.csv,20,"July 11, 2026",assignment,38.72
+Wendy's,wendys_menu.csv,29,"July 22, 2026",assignment,30.01
+Whataburger,whataburger_menu.csv,19,"July 26, 2026",assignment,37.51
+White Castle,white_castle_menu.csv,16,"August 16, 2026",assignment,37.59
+Zaxby's,zaxbys_menu.csv,11,"July 28, 2026",assignment,34.13

@@ -1,0 +1,21 @@
+item,category,price,calories,protein,carbs,fiber,sugar,fat,sat_fat,sodium
+Crunchwrap Supreme,Sandwiches,8.53,530,16,71,6,6,21,6,1190
+Mexican Pizza,Pizza,7.67,550,21,49,7,3,30,8,980
+Spicy Potato Soft Taco,Sandwiches,1.70,230,5,27,2,1,12,3,460
+Cheesy Bean and Rice Burrito,Sandwiches,1.82,430,11,57,6,4,17,3.5,900
+Cheesy Fiesta Potatoes,Fried Potatoes,3.65,230,3,28,2,2,12,2,520
+Bean Burrito,Sandwiches,2.67,380,14,55,9,3,11,4,1060
+Cheese Quesadilla,Entrees,7.55,460,19,37,4,3,26,11,980
+Doritos Cheesy Gordita Crunch - Nacho Cheese,Sandwiches,7.55,490,20,41,5,5,28,10,890
+Cheesy Gordita Crunch,Sandwiches,7.31,500,20,41,5,4,28,10,840
+Nacho Cheese Doritos Locos Tacos,Sandwiches,3.65,170,8,13,3,1,9,3.5,360
+Chalupa Supreme (beef),Sandwiches,7.19,350,13,33,4,3,19,5,550
+Nacho Cheese Doritos Locos Tacos Supreme,Sandwiches,4.87,190,9,15,3,2,11,4.5,380
+Soft Taco (beef),Sandwiches,2.43,180,9,17,3,1,9,4,490
+Soft Taco Supreme (beef),Sandwiches,3.65,210,10,20,3,2,10,5,510
+Crunchy Taco Supreme,Sandwiches,3.65,190,8,15,3,2,11,4.5,330
+Beefy 5-Layer Burrito,Sandwiches,5.97,500,19,64,8,5,19,7,1270
+Burrito Supreme (beef),Sandwiches,7.55,410,17,51,8,4,15,6,1140
+Chicken Quesadilla,Entrees,8.53,510,27,38,4,3,28,12,1210
+Steak Quesadilla,Entrees,8.77,510,27,38,4,3,28,12,1220
+Nachos BellGrande,Appetizers & Sides,8.53,760,19,84,13,5,38,6,1290
