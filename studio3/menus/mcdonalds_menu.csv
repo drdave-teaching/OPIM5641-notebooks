@@ -1,0 +1,24 @@
+item,category,price,calories,protein,carbs,fiber,sugar,fat,sat_fat,sodium
+Double Cheeseburger,Burgers,4.29,430,25,35,2,7,21,11,1040
+Big Mac,Burgers,6.19,540,25,46,3,9,28,10,950
+Quarter Pounder with Cheese,Burgers,6.29,530,31,41,3,10,27,13,1090
+Double Quarter Pounder with Cheese,Burgers,9.19,770,51,42,3,10,45,21,1290
+Cheeseburger,Burgers,2.49,300,15,33,2,7,12,5,680
+Triple Cheeseburger,Burgers,5.49,520,32,36,2,7,28,13,1160
+Hamburger,Burgers,2.39,250,13,31,2,6,8,3,480
+McDouble,Burgers,3.99,380,23,34,2,7,18,8,840
+Bacon McDouble,Burgers,5.29,450,28,34,2,7,22,10,1080
+McChicken,Sandwiches,3.49,350,15,40,2,5,15,3.5,600
+10 pc. Chicken McNuggets,Entrees,6.39,440,24,26,2,0,27,4.5,840
+6 pc. Chicken McNuggets,Entrees,4.69,270,15,16,1,0,16,2.5,510
+Filet-O-Fish,Sandwiches,5.69,410,18,39,2,5,20,5,660
+Medium French Fries,Fried Potatoes,3.99,340,4,44,4,0,16,2,230
+Medium Coca-Cola,Beverages,2.79,220,0,57,0,57,0,0,50
+Medium Sweet Iced Tea,Beverages,2.79,110,0,28,0,28,0,0,20
+Medium Strawberry Banana Smoothie,Beverages,4.49,240,3,55,3,49,1,0,50
+Chocolate Milk,Beverages,1.79,130,9,23,0,22,0,0,135
+1% Milk,Beverages,1.79,100,8,12,0,12,2.5,1.5,125
+Medium Vanilla Shake,Beverages,4.69,600,14,73,0,72,17,11,270
+Chocolate Chip Cookie,Desserts,1.79,170,2,23,1,15,7,3.5,90
+Medium Caramel Frappé,Beverages,5.39,510,8,72,0,67,21,13,150
+Apple Slices,Appetizers & Sides,1.39,15,0,4,0,3,0,0,0
