@@ -132,7 +132,7 @@ Albert Okwuegbunam,TE,DEN,JAX,2,2900,6.4
 Kareem Hunt,RB,CLE,HOU,2,5800,6.3
 Jonathan Taylor,RB,IND,LAR,2,7200,6.3
 Hunter Henry,TE,NE,NYJ,2,4300,6.2
-Andy Janovich,FB,CLE,HOU,2,4000,6.0
+Andy Janovich,RB,CLE,HOU,2,4000,6.0
 Devin Duvernay,WR,BAL,KC,2,3200,6.0
 Jamal Agnew,WR,JAX,DEN,2,3000,6.0
 Albert Wilson,WR,MIA,BUF,2,3000,6.0
@@ -168,7 +168,7 @@ David Njoku,TE,CLE,HOU,2,3600,3.8
 Dalton Schultz,TE,DAL,LAC,2,3300,3.8
 Kalif Raymond,WR,DET,GB,2,4200,3.8
 Lil'Jordan Humphrey,WR,NO,CAR,2,3000,3.7
-Kyle Juszczyk,FB,SF,PHI,2,4000,3.7
+Kyle Juszczyk,RB,SF,PHI,2,4000,3.7
 AJ Dillon,RB,GB,DET,2,4500,3.6
 Clyde Edwards-Helaire,RB,KC,BAL,2,6700,3.6
 DeVonta Smith,WR,PHI,SF,2,5400,3.6
@@ -210,7 +210,7 @@ C.J. Uzomah,TE,CIN,CHI,2,3000,2.4
 Chris Conley,WR,HOU,CLE,2,3100,2.3
 Malcolm Brown,RB,MIA,BUF,2,4000,2.1
 Devontae Booker,RB,NYG,WAS,2,4700,2.1
-Michael Burton,FB,KC,BAL,2,4000,2.1
+Michael Burton,RB,KC,BAL,2,4000,2.1
 Jody Fortson,WR,KC,BAL,2,2500,2.1
 Marquise Goodwin,WR,CHI,CIN,2,3500,2.0
 Ashton Dulin,WR,IND,LAR,2,3000,2.0
@@ -238,7 +238,7 @@ Hayden Hurst,TE,ATL,TB,2,3800,1.6
 Nick Westbrook-Ikhine,WR,TEN,SEA,2,3000,1.6
 KJ Hamler,WR,DEN,JAX,2,3800,1.5
 Tyler Johnson,WR,TB,ATL,2,3000,1.5
-Jason Cabinda,FB,DET,GB,2,4000,1.4
+Jason Cabinda,RB,DET,GB,2,4000,1.4
 Donovan Peoples-Jones,WR,CLE,HOU,2,3000,1.4
 Ty Montgomery,WR,NO,CAR,2,4000,1.3
 Gerald Everett,TE,SEA,TEN,2,3600,1.3
@@ -255,13 +255,13 @@ Tony Jones Jr.,RB,NO,CAR,2,4400,0.7
 C.J. Board,WR,NYG,WAS,2,3000,0.6
 Elijhaa Penny,RB,NYG,WAS,2,4000,0.5
 J.J. Taylor,RB,NE,NYJ,2,4000,0.3
-Keith Smith,FB,ATL,TB,2,4000,0.3
+Keith Smith,RB,ATL,TB,2,4000,0.3
 DeAndre Carter,WR,WAS,NYG,2,3000,0.2
 Reggie Gilliam,TE,BUF,MIA,2,4000,0.2
-Patrick Ricard,FB,BAL,KC,2,4000,0.2
+Patrick Ricard,RB,BAL,KC,2,4000,0.2
 Benny Snell Jr.,RB,PIT,LV,2,4300,0.1
 Evan Engram,TE,NYG,WAS,2,3900,0.0
-Cullen Gillaspia,FB,NYG,WAS,2,4000,0.0
+Cullen Gillaspia,RB,NYG,WAS,2,4000,0.0
 Chris Myarick,TE,NYG,WAS,2,2500,0.0
 Collin Johnson,WR,NYG,WAS,2,3000,0.0
 Kadarius Toney,WR,NYG,WAS,2,3100,0.0
@@ -279,7 +279,7 @@ Gabriel Davis,WR,BUF,MIA,2,3900,0.0
 Alex Erickson,WR,CAR,NO,2,3100,0.0
 Colin Thompson,TE,CAR,NO,2,2500,0.0
 Royce Freeman,RB,CAR,NO,2,4000,0.0
-Giovanni Ricci,FB,CAR,NO,2,4000,0.0
+Giovanni Ricci,RB,CAR,NO,2,4000,0.0
 Shi Smith,WR,CAR,NO,2,3000,0.0
 Tommy Tremble,TE,CAR,NO,2,2500,0.0
 Jimmy Graham,TE,CHI,CIN,2,3200,0.0
@@ -328,7 +328,7 @@ Tutu Atwell,WR,LAR,IND,2,3000,0.0
 Jake Funk,RB,LAR,IND,2,4000,0.0
 Jacob Harris,TE,LAR,IND,2,2500,0.0
 Zay Jones,WR,LV,PIT,2,3100,0.0
-Alec Ingold,FB,LV,PIT,2,4000,0.0
+Alec Ingold,RB,LV,PIT,2,4000,0.0
 Josh Jacobs,RB,LV,PIT,2,6000,0.0
 Nick Bowers,TE,LV,PIT,2,2500,0.0
 Trey Ragas,RB,LV,PIT,2,4000,0.0
@@ -339,13 +339,13 @@ Durham Smythe,TE,MIA,BUF,2,2500,0.0
 Hunter Long,TE,MIA,BUF,2,2500,0.0
 Matthew Slater,WR,NE,NYJ,2,3000,0.0
 Brandon Bolden,RB,NE,NYJ,2,4000,0.0
-Jakob Johnson,FB,NE,NYJ,2,4000,0.0
+Jakob Johnson,RB,NE,NYJ,2,4000,0.0
 Gunner Olszewski,WR,NE,NYJ,2,3100,0.0
 Devin Asiasi,TE,NE,NYJ,2,2500,0.0
 Rhamondre Stevenson,RB,NE,NYJ,2,4000,0.0
 Dwayne Washington,RB,NO,CAR,2,4000,0.0
 Garrett Griffin,TE,NO,CAR,2,2500,0.0
-Alex Armah,FB,NO,CAR,2,4000,0.0
+Alex Armah,RB,NO,CAR,2,4000,0.0
 Adam Trautman,TE,NO,CAR,2,3000,0.0
 Jamison Crowder,WR,NYJ,NE,2,4500,0.0
 Daniel Brown,TE,NYJ,NE,2,2500,0.0
@@ -359,7 +359,7 @@ Boston Scott,RB,PHI,SF,2,4300,0.0
 J.J. Arcega-Whiteside,WR,PHI,SF,2,3000,0.0
 Jack Stoll,TE,PHI,SF,2,2500,0.0
 Eric Ebron,TE,PIT,LV,2,3500,0.0
-Derek Watt,FB,PIT,LV,2,4000,0.0
+Derek Watt,RB,PIT,LV,2,4000,0.0
 Kalen Ballage,RB,PIT,LV,2,4000,0.0
 James Washington,WR,PIT,LV,2,3400,0.0
 Ray-Ray McCloud,WR,PIT,LV,2,3000,0.0
@@ -377,7 +377,7 @@ Wayne Gallman,RB,ATL,TB,2,4300,0.0
 Frank Darby,WR,ATL,TB,2,3000,0.0
 Parker Hesse,TE,ATL,TB,2,2500,0.0
 Ameer Abdullah,RB,MIN,ARI,2,4000,0.0
-C.J. Ham,FB,MIN,ARI,2,4000,0.0
+C.J. Ham,RB,MIN,ARI,2,4000,0.0
 Dede Westbrook,WR,MIN,ARI,2,3000,0.0
 Chris Herndon,TE,MIN,ARI,2,2900,0.0
 Ben Ellefson,TE,MIN,ARI,2,2500,0.0
@@ -393,9 +393,9 @@ Simi Fehoko,WR,DAL,LAC,2,3000,0.0
 Donald Parham Jr.,TE,LAC,DAL,2,2900,0.0
 KJ Hill Jr.,WR,LAC,DAL,2,3000,0.0
 Joshua Kelley,RB,LAC,DAL,2,4000,0.0
-Gabe Nabers,FB,LAC,DAL,2,4000,0.0
+Gabe Nabers,RB,LAC,DAL,2,4000,0.0
 Tre' McKitty,TE,LAC,DAL,2,2500,0.0
-Nick Bellore,FB,SEA,TEN,2,4000,0.0
+Nick Bellore,RB,SEA,TEN,2,4000,0.0
 Rashaad Penny,RB,SEA,TEN,2,4000,0.0
 Will Dissly,TE,SEA,TEN,2,3000,0.0
 Penny Hart,WR,SEA,TEN,2,3000,0.0
@@ -479,7 +479,7 @@ Chris Carson,RB,SEA,MIN,3,6400,16.2
 Cordarrelle Patterson,RB,ATL,NYG,3,4600,16.2
 Zach Ertz,TE,PHI,DAL,3,3400,15.3
 Melvin Gordon III,RB,DEN,NYJ,3,5500,15.2
-Kyle Juszczyk,FB,SF,GB,3,4000,15.1
+Kyle Juszczyk,RB,SF,GB,3,4000,15.1
 Tyler Higbee,TE,LAR,TB,3,4000,15.0
 Marquez Valdes-Scantling,WR,GB,SF,3,4000,14.9
 Dawson Knox,TE,BUF,WAS,3,3400,14.9
@@ -552,7 +552,7 @@ Tony Pollard,RB,DAL,PHI,3,5700,7.5
 David Montgomery,RB,CHI,CLE,3,6100,7.5
 Cameron Brate,TE,TB,LAR,3,2500,7.5
 Jordan Akins,TE,HOU,CAR,3,2900,7.2
-Alec Ingold,FB,LV,MIA,3,4000,7.1
+Alec Ingold,RB,LV,MIA,3,4000,7.1
 Tyler Lockett,WR,SEA,MIN,3,7400,7.1
 William Fuller V,WR,MIA,LV,3,4700,7.0
 Robert Woods,WR,LAR,TB,3,5700,6.8
@@ -614,7 +614,7 @@ Cam Sims,WR,WAS,BUF,3,3000,3.2
 Byron Pringle,WR,KC,LAC,3,3000,3.2
 Tyler Kroft,TE,NYJ,DEN,3,2700,3.2
 Freddie Swain,WR,SEA,MIN,3,4000,3.1
-Gabe Nabers,FB,LAC,KC,3,4000,3.1
+Gabe Nabers,RB,LAC,KC,3,4000,3.1
 Damien Harris,RB,NE,NO,3,5600,3.1
 Scotty Miller,WR,TB,LAR,3,3100,3.1
 Evan Engram,TE,NYG,ATL,3,3600,3.1
@@ -660,7 +660,7 @@ Noah Gray,TE,KC,LAC,3,2500,1.5
 Ryan Griffin,TE,NYJ,DEN,3,2600,1.5
 Jonnu Smith,TE,NE,NO,3,4100,1.4
 Josiah Deguara,TE,GB,SF,3,2500,1.4
-Derek Watt,FB,PIT,CIN,3,4000,1.3
+Derek Watt,RB,PIT,CIN,3,4000,1.3
 Tommy Hudson,TE,TEN,IND,3,2500,1.3
 Amon-Ra St. Brown,WR,DET,BAL,3,3300,1.2
 David Johnson,RB,HOU,CAR,3,5000,1.1
@@ -677,17 +677,17 @@ James White,RB,NE,NO,3,4900,0.6
 Elijhaa Penny,RB,NYG,ATL,3,4000,0.6
 Jake Funk,RB,LAR,TB,3,4000,0.6
 Phillip Lindsay,RB,HOU,CAR,3,4800,0.5
-Alex Armah,FB,NO,NE,3,4000,0.5
+Alex Armah,RB,NO,NE,3,4000,0.5
 Gary Brightwell,RB,NYG,ATL,3,4000,0.4
 Jalen Guyton,WR,LAC,KC,3,3200,0.3
 Larry Rountree III,RB,LAC,KC,3,4000,0.3
 A.J. Brown,WR,TEN,IND,3,6500,0.3
 Mekhi Sargent,RB,TEN,IND,3,4000,0.2
-C.J. Ham,FB,MIN,SEA,3,4000,0.2
+C.J. Ham,RB,MIN,SEA,3,4000,0.2
 Colin Thompson,TE,CAR,HOU,3,2500,0.0
 Brandon Zylstra,WR,CAR,HOU,3,3300,0.0
 Ian Thomas,TE,CAR,HOU,3,2500,0.0
-Giovanni Ricci,FB,CAR,HOU,3,4000,0.0
+Giovanni Ricci,RB,CAR,HOU,3,4000,0.0
 Shi Smith,WR,CAR,HOU,3,3000,0.0
 Danny Amendola,WR,HOU,CAR,3,3300,0.0
 Andre Roberts,WR,HOU,CAR,3,3000,0.0
@@ -703,7 +703,7 @@ Andy Isabella,WR,ARI,JAX,3,3000,0.0
 Antoine Wesley,WR,ARI,JAX,3,3000,0.0
 Eno Benjamin,RB,ARI,JAX,3,4000,0.0
 Jonathan Ward,RB,ARI,JAX,3,4000,0.0
-Keith Smith,FB,ATL,NYG,3,4000,0.0
+Keith Smith,RB,ATL,NYG,3,4000,0.0
 Wayne Gallman,RB,ATL,NYG,3,4400,0.0
 Hayden Hurst,TE,ATL,NYG,3,2800,0.0
 Russell Gage,WR,ATL,NYG,3,4300,0.0
@@ -712,7 +712,7 @@ Juwan Green,WR,ATL,NYG,3,3000,0.0
 Frank Darby,WR,ATL,NYG,3,3000,0.0
 Parker Hesse,TE,ATL,NYG,3,2500,0.0
 Eric Tomlinson,TE,BAL,DET,3,2500,0.0
-Patrick Ricard,FB,BAL,DET,3,4000,0.0
+Patrick Ricard,RB,BAL,DET,3,4000,0.0
 Tylan Wallace,WR,BAL,DET,3,3000,0.0
 Taiwan Jones,RB,BUF,WAS,3,4000,0.0
 Jake Kumerow,WR,BUF,WAS,3,3000,0.0
@@ -734,12 +734,12 @@ Drew Sample,TE,CIN,PIT,3,2500,0.0
 Trenton Irwin,WR,CIN,PIT,3,3000,0.0
 Tee Higgins,WR,CIN,PIT,3,5100,0.0
 Mitchell Wilcox,TE,CIN,PIT,3,2500,0.0
-Andy Janovich,FB,CLE,CHI,3,4000,0.0
+Andy Janovich,RB,CLE,CHI,3,4000,0.0
 David Njoku,TE,CLE,CHI,3,3500,0.0
 Jordan Franks,TE,CLE,CHI,3,2500,0.0
 Harrison Bryant,TE,CLE,CHI,3,2800,0.0
 Anthony Schwartz,WR,CLE,CHI,3,3200,0.0
-Jason Cabinda,FB,DET,BAL,3,4000,0.0
+Jason Cabinda,RB,DET,BAL,3,4000,0.0
 Godwin Igwebuike,RB,DET,BAL,3,4000,0.0
 Trinity Benson,WR,DET,BAL,3,3000,0.0
 Tom Kennedy,WR,DET,BAL,3,3000,0.0
@@ -755,7 +755,7 @@ Jamal Agnew,WR,JAX,ARI,3,3000,0.0
 Dare Ogunbowale,RB,JAX,ARI,3,4000,0.0
 Tyron Johnson,WR,JAX,ARI,3,3200,0.0
 Jerick McKinnon,RB,KC,LAC,3,4000,0.0
-Michael Burton,FB,KC,LAC,3,4000,0.0
+Michael Burton,RB,KC,LAC,3,4000,0.0
 Marcus Kemp,WR,KC,LAC,3,3000,0.0
 Daurice Fountain,WR,KC,LAC,3,3000,0.0
 Stephen Anderson,TE,LAC,KC,3,2500,0.0
@@ -765,7 +765,7 @@ Joshua Kelley,RB,LAC,KC,3,4000,0.0
 Tre' McKitty,TE,LAC,KC,3,2500,0.0
 Joshua Palmer,WR,LAC,KC,3,3000,0.0
 Matthew Slater,WR,NE,NO,3,3000,0.0
-Jakob Johnson,FB,NE,NO,3,4000,0.0
+Jakob Johnson,RB,NE,NO,3,4000,0.0
 Gunner Olszewski,WR,NE,NO,3,3000,0.0
 Devin Asiasi,TE,NE,NO,3,2500,0.0
 Rhamondre Stevenson,RB,NE,NO,3,4000,0.0
@@ -778,7 +778,7 @@ Juwan Johnson,TE,NO,NE,3,3300,0.0
 Adam Trautman,TE,NO,NE,3,2900,0.0
 Kyle Rudolph,TE,NYG,ATL,3,3000,0.0
 Devontae Booker,RB,NYG,ATL,3,4600,0.0
-Cullen Gillaspia,FB,NYG,ATL,3,4000,0.0
+Cullen Gillaspia,RB,NYG,ATL,3,4000,0.0
 Eric Ebron,TE,PIT,CIN,3,3300,0.0
 Kalen Ballage,RB,PIT,CIN,3,4000,0.0
 Zach Gentry,TE,PIT,CIN,3,2500,0.0
@@ -788,7 +788,7 @@ Josh Reynolds,WR,TEN,IND,3,3000,0.0
 Anthony Firkser,TE,TEN,IND,3,3100,0.0
 Khari Blasingame,RB,TEN,IND,3,4000,0.0
 Racey McMath,WR,TEN,IND,3,3000,0.0
-Tory Carter,FB,TEN,IND,3,4000,0.0
+Tory Carter,RB,TEN,IND,3,4000,0.0
 DeAndre Carter,WR,WAS,BUF,3,3000,0.0
 Ricky Seals-Jones,TE,WAS,BUF,3,2500,0.0
 Jaret Patterson,RB,WAS,BUF,3,4000,0.0
@@ -831,7 +831,7 @@ Dede Westbrook,WR,MIN,SEA,3,3000,0.0
 Chris Herndon,TE,MIN,SEA,3,2600,0.0
 Ben Ellefson,TE,MIN,SEA,3,2500,0.0
 Ihmir Smith-Marsette,WR,MIN,SEA,3,3000,0.0
-Nick Bellore,FB,SEA,MIN,3,4000,0.0
+Nick Bellore,RB,SEA,MIN,3,4000,0.0
 Rashaad Penny,RB,SEA,MIN,3,4000,0.0
 Cody Thompson,WR,SEA,MIN,3,3000,0.0
 DeeJay Dallas,RB,SEA,MIN,3,4000,0.0
@@ -857,7 +857,7 @@ Elijah Mitchell,RB,SF,GB,3,5300,0.0
 Jeremy Sprinkle,TE,DAL,PHI,3,2500,0.0
 Corey Clement,RB,DAL,PHI,3,4000,0.0
 Simi Fehoko,WR,DAL,PHI,3,3000,0.0
-Nick Ralston,FB,DAL,PHI,3,2500,0.0
+Nick Ralston,RB,DAL,PHI,3,2500,0.0
 J.J. Arcega-Whiteside,WR,PHI,DAL,3,3000,0.0
 Jack Stoll,TE,PHI,DAL,3,2500,0.0
 Dyami Brown,WR,WAS,BUF,3,3600,-0.4
@@ -984,7 +984,7 @@ Chris Godwin,WR,TB,NE,4,6300,8.5
 Zach Pascal,WR,IND,MIA,4,4500,8.4
 Brandon Zylstra,WR,CAR,DAL,4,3200,8.3
 T.J. Hockenson,TE,DET,CHI,4,5800,8.2
-Kyle Juszczyk,FB,SF,SEA,4,4000,8.1
+Kyle Juszczyk,RB,SF,SEA,4,4000,8.1
 George Kittle,TE,SF,SEA,4,5900,8.0
 Ty Montgomery,WR,NO,NYG,4,3000,7.9
 David Johnson,RB,HOU,BUF,4,4500,7.8
@@ -1076,7 +1076,7 @@ Albert Okwuegbunam,TE,DEN,BAL,4,2600,2.1
 Pat Freiermuth,TE,PIT,GB,4,3100,2.1
 Mike Williams,WR,LAC,LV,4,7200,2.1
 Nyheim Hines,RB,IND,MIA,4,4900,2.1
-Andy Janovich,FB,CLE,MIN,4,4000,2.0
+Andy Janovich,RB,CLE,MIN,4,4000,2.0
 Alexander Mattison,RB,MIN,CLE,4,6600,2.0
 Zach Gentry,TE,PIT,GB,4,2500,2.0
 N'Keal Harry,WR,NE,TB,4,3000,2.0
@@ -1095,7 +1095,7 @@ Jacob Hollister,TE,JAX,CIN,4,2500,1.5
 Tony Jones Jr.,RB,NO,NYG,4,4000,1.5
 Christian Kirk,WR,ARI,LAR,4,5300,1.5
 Zay Jones,WR,LV,LAC,4,3000,1.5
-Patrick Ricard,FB,BAL,DEN,4,4000,1.4
+Patrick Ricard,RB,BAL,DEN,4,4000,1.4
 Bryan Edwards,WR,LV,LAC,4,4100,1.4
 Harrison Bryant,TE,CLE,MIN,4,2500,1.3
 Anthony Miller,WR,HOU,BUF,4,3700,1.3
@@ -1110,16 +1110,16 @@ Le'Veon Bell,RB,BAL,DEN,4,4000,1.1
 Mike Thomas,WR,CIN,JAX,4,3000,1.0
 Khalil Herbert,RB,CHI,DET,4,4000,0.7
 Jordan Akins,TE,HOU,BUF,4,2900,0.7
-Michael Burton,FB,KC,PHI,4,4000,0.5
+Michael Burton,RB,KC,PHI,4,4000,0.5
 Travis Homer,RB,SEA,SF,4,4100,0.5
 Devonta Freeman,RB,BAL,DEN,4,4000,0.4
 Dare Ogunbowale,RB,JAX,CIN,4,4000,0.3
 Myles Gaskin,RB,MIA,IND,4,5300,0.3
-Keith Smith,FB,ATL,WAS,4,4000,0.2
-Alex Armah,FB,NO,NYG,4,4000,0.2
+Keith Smith,RB,ATL,WAS,4,4000,0.2
+Alex Armah,RB,NO,NYG,4,4000,0.2
 Kenyan Drake,RB,LV,LAC,4,5200,0.2
 Marquise Goodwin,WR,CHI,DET,4,3100,0.1
-C.J. Ham,FB,MIN,CLE,4,4000,0.1
+C.J. Ham,RB,MIN,CLE,4,4000,0.1
 Sony Michel,RB,LAR,ARI,4,5200,0.1
 Stanley Morgan,WR,CIN,JAX,4,3000,0.0
 Drew Sample,TE,CIN,JAX,4,2500,0.0
@@ -1143,7 +1143,7 @@ Gabriel Davis,WR,BUF,HOU,4,3400,0.0
 Alex Erickson,WR,CAR,DAL,4,3000,0.0
 Christian McCaffrey,RB,CAR,DAL,4,8700,0.0
 Colin Thompson,TE,CAR,DAL,4,2500,0.0
-Giovanni Ricci,FB,CAR,DAL,4,4000,0.0
+Giovanni Ricci,RB,CAR,DAL,4,4000,0.0
 Shi Smith,WR,CAR,DAL,4,3000,0.0
 Tommy Tremble,TE,CAR,DAL,4,2500,0.0
 Jimmy Graham,TE,CHI,DET,4,2700,0.0
@@ -1161,9 +1161,9 @@ Noah Brown,WR,DAL,CAR,4,3000,0.0
 Corey Clement,RB,DAL,CAR,4,4000,0.0
 Malik Turner,WR,DAL,CAR,4,3000,0.0
 Simi Fehoko,WR,DAL,CAR,4,3000,0.0
-Nick Ralston,FB,DAL,CAR,4,2500,0.0
+Nick Ralston,RB,DAL,CAR,4,2500,0.0
 Darren Fells,TE,DET,CHI,4,2500,0.0
-Jason Cabinda,FB,DET,CHI,4,4000,0.0
+Jason Cabinda,RB,DET,CHI,4,4000,0.0
 Godwin Igwebuike,RB,DET,CHI,4,4000,0.0
 Tom Kennedy,WR,DET,CHI,4,3000,0.0
 Jermar Jefferson,RB,DET,CHI,4,4000,0.0
@@ -1197,7 +1197,7 @@ Elijhaa Penny,RB,NYG,NO,4,4000,0.0
 C.J. Board,WR,NYG,NO,4,3000,0.0
 Darius Slayton,WR,NYG,NO,4,4200,0.0
 Kaden Smith,TE,NYG,NO,4,2500,0.0
-Cullen Gillaspia,FB,NYG,NO,4,4000,0.0
+Cullen Gillaspia,RB,NYG,NO,4,4000,0.0
 Collin Johnson,WR,NYG,NO,4,3200,0.0
 Gary Brightwell,RB,NYG,NO,4,4000,0.0
 Tyler Kroft,TE,NYJ,TEN,4,2700,0.0
@@ -1216,7 +1216,7 @@ A.J. Brown,WR,TEN,NYJ,4,6300,0.0
 Khari Blasingame,RB,TEN,NYJ,4,4000,0.0
 Racey McMath,WR,TEN,NYJ,4,3000,0.0
 Mekhi Sargent,RB,TEN,NYJ,4,4000,0.0
-Tory Carter,FB,TEN,NYJ,4,4000,0.0
+Tory Carter,RB,TEN,NYJ,4,4000,0.0
 Logan Thomas,TE,WAS,ATL,4,4900,0.0
 Cam Sims,WR,WAS,ATL,4,3000,0.0
 Dax Milne,WR,WAS,ATL,4,3000,0.0
@@ -1235,7 +1235,7 @@ Ben Skowronek,WR,LAR,ARI,4,3000,0.0
 Tutu Atwell,WR,LAR,ARI,4,3000,0.0
 Jake Funk,RB,LAR,ARI,4,4000,0.0
 Jacob Harris,TE,LAR,ARI,4,2500,0.0
-Nick Bellore,FB,SEA,SF,4,4000,0.0
+Nick Bellore,RB,SEA,SF,4,4000,0.0
 Gerald Everett,TE,SEA,SF,4,3200,0.0
 Penny Hart,WR,SEA,SF,4,3000,0.0
 Cody Thompson,WR,SEA,SF,4,3000,0.0
@@ -1260,13 +1260,13 @@ Malik Taylor,WR,GB,PIT,4,3000,0.0
 Josiah Deguara,TE,GB,PIT,4,2500,0.0
 Kylin Hill,RB,GB,PIT,4,4000,0.0
 Amari Rodgers,WR,GB,PIT,4,3000,0.0
-Derek Watt,FB,PIT,GB,4,4000,0.0
+Derek Watt,RB,PIT,GB,4,4000,0.0
 Kalen Ballage,RB,PIT,GB,4,4000,0.0
 Benny Snell Jr.,RB,PIT,GB,4,4000,0.0
 Chase Claypool,WR,PIT,GB,4,6100,0.0
 Cody White,WR,PIT,GB,4,3000,0.0
 Matthew Slater,WR,NE,TB,4,3000,0.0
-Jakob Johnson,FB,NE,TB,4,4000,0.0
+Jakob Johnson,RB,NE,TB,4,4000,0.0
 Gunner Olszewski,WR,NE,TB,4,3000,0.0
 Devin Asiasi,TE,NE,TB,4,2500,0.0
 Rhamondre Stevenson,RB,NE,TB,4,4200,0.0
@@ -1280,12 +1280,12 @@ Ke'Shawn Vaughn,RB,TB,NE,4,4000,0.0
 Jaelon Darden,WR,TB,NE,4,3000,0.0
 KJ Hill Jr.,WR,LAC,LV,4,3000,0.0
 Joshua Kelley,RB,LAC,LV,4,4000,0.0
-Gabe Nabers,FB,LAC,LV,4,4000,0.0
+Gabe Nabers,RB,LAC,LV,4,4000,0.0
 Tre' McKitty,TE,LAC,LV,4,2500,0.0
 Joshua Palmer,WR,LAC,LV,4,3000,0.0
 Derek Carrier,TE,LV,LAC,4,2500,0.0
 Peyton Barber,RB,LV,LAC,4,5100,0.0
-Alec Ingold,FB,LV,LAC,4,4000,0.0
+Alec Ingold,RB,LV,LAC,4,4000,0.0
 Foster Moreau,TE,LV,LAC,4,2900,0.0
 Nick Bowers,TE,LV,LAC,4,2500,0.0
 J.J. Taylor,RB,NE,TB,4,4300,0.0
@@ -1424,7 +1424,7 @@ Kendrick Bourne,WR,NE,HOU,5,4000,6.8
 A.J. Brown,WR,TEN,JAX,5,6500,6.8
 Noah Brown,WR,DAL,NYG,5,3000,6.6
 Darnell Mooney,WR,CHI,LV,5,4700,6.5
-Kyle Juszczyk,FB,SF,ARI,5,4200,6.5
+Kyle Juszczyk,RB,SF,ARI,5,4200,6.5
 Devonta Freeman,RB,BAL,IND,5,4000,6.5
 Marlon Mack,RB,IND,BAL,5,4000,6.4
 Tyler Boyd,WR,CIN,GB,5,5300,6.4
@@ -1501,7 +1501,7 @@ C.J. Board,WR,NYG,DAL,5,3000,2.7
 Van Jefferson,WR,LAR,SEA,5,3700,2.6
 Gabriel Davis,WR,BUF,KC,5,3300,2.6
 Allen Lazard,WR,GB,CIN,5,3700,2.6
-C.J. Ham,FB,MIN,DET,5,4000,2.5
+C.J. Ham,RB,MIN,DET,5,4000,2.5
 Maxx Williams,TE,ARI,SF,5,3400,2.4
 Kyle Rudolph,TE,NYG,DAL,5,2500,2.4
 Rhamondre Stevenson,RB,NE,HOU,5,4000,2.3
@@ -1554,19 +1554,19 @@ JuJu Smith-Schuster,WR,PIT,DEN,5,5000,0.6
 Elijhaa Penny,RB,NYG,DAL,5,4000,0.4
 Wayne Gallman,RB,ATL,NYJ,5,4100,0.2
 Ameer Abdullah,RB,MIN,DET,5,4000,0.2
-Michael Burton,FB,KC,BUF,5,4000,0.2
+Michael Burton,RB,KC,BUF,5,4000,0.2
 Johnny Mundt,TE,LAR,SEA,5,2500,0.0
 Brycen Hopkins,TE,LAR,SEA,5,2500,0.0
 Ben Skowronek,WR,LAR,SEA,5,3000,0.0
 Tutu Atwell,WR,LAR,SEA,5,3000,0.0
 Jake Funk,RB,LAR,SEA,5,4000,0.0
 Jacob Harris,TE,LAR,SEA,5,2500,0.0
-Nick Bellore,FB,SEA,LAR,5,4000,0.0
+Nick Bellore,RB,SEA,LAR,5,4000,0.0
 Phillip Dorsett II,WR,SEA,LAR,5,3000,0.0
 Gerald Everett,TE,SEA,LAR,5,3100,0.0
 Chris Carson,RB,SEA,LAR,5,5400,0.0
 Tyler Mabry,TE,SEA,LAR,5,2500,0.0
-Keith Smith,FB,ATL,NYJ,5,4000,0.0
+Keith Smith,RB,ATL,NYJ,5,4000,0.0
 Calvin Ridley,WR,ATL,NYJ,5,6800,0.0
 Russell Gage,WR,ATL,NYJ,5,4000,0.0
 Juwan Green,WR,ATL,NYJ,5,3000,0.0
@@ -1582,7 +1582,7 @@ Alex Erickson,WR,CAR,PHI,5,3000,0.0
 Christian McCaffrey,RB,CAR,PHI,5,8700,0.0
 Colin Thompson,TE,CAR,PHI,5,2500,0.0
 Brandon Zylstra,WR,CAR,PHI,5,3200,0.0
-Giovanni Ricci,FB,CAR,PHI,5,4000,0.0
+Giovanni Ricci,RB,CAR,PHI,5,4000,0.0
 Rodney Smith,RB,CAR,PHI,5,4000,0.0
 Shi Smith,WR,CAR,PHI,5,3000,0.0
 Mike Thomas,WR,CIN,GB,5,3000,0.0
@@ -1598,7 +1598,7 @@ Damarea Crockett,RB,DEN,PIT,5,4000,0.0
 Tyrie Cleveland,WR,DEN,PIT,5,3000,0.0
 Darren Fells,TE,DET,MIN,5,2500,0.0
 Kalif Raymond,WR,DET,MIN,5,4800,0.0
-Jason Cabinda,FB,DET,MIN,5,4000,0.0
+Jason Cabinda,RB,DET,MIN,5,4000,0.0
 Godwin Igwebuike,RB,DET,MIN,5,4000,0.0
 Trinity Benson,WR,DET,MIN,5,3000,0.0
 Tom Kennedy,WR,DET,MIN,5,3000,0.0
@@ -1627,7 +1627,7 @@ Chris Herndon,TE,MIN,DET,5,2700,0.0
 Ben Ellefson,TE,MIN,DET,5,2500,0.0
 Ihmir Smith-Marsette,WR,MIN,DET,5,3000,0.0
 Matthew Slater,WR,NE,HOU,5,3000,0.0
-Jakob Johnson,FB,NE,HOU,5,4000,0.0
+Jakob Johnson,RB,NE,HOU,5,4000,0.0
 Gunner Olszewski,WR,NE,HOU,5,3000,0.0
 Devin Asiasi,TE,NE,HOU,5,2500,0.0
 J.J. Taylor,RB,NE,HOU,5,4400,0.0
@@ -1635,7 +1635,7 @@ Chris Hogan,WR,NO,WAS,5,3000,0.0
 Ty Montgomery,WR,NO,WAS,5,3000,0.0
 Dwayne Washington,RB,NO,WAS,5,4000,0.0
 Garrett Griffin,TE,NO,WAS,5,2500,0.0
-Alex Armah,FB,NO,WAS,5,4000,0.0
+Alex Armah,RB,NO,WAS,5,4000,0.0
 Lil'Jordan Humphrey,WR,NO,WAS,5,3000,0.0
 Devine Ozigbo,RB,NO,WAS,5,4000,0.0
 Juwan Johnson,TE,NO,WAS,5,3100,0.0
@@ -1643,7 +1643,7 @@ Greg Ward,WR,PHI,CAR,5,3200,0.0
 Boston Scott,RB,PHI,CAR,5,4000,0.0
 J.J. Arcega-Whiteside,WR,PHI,CAR,5,3000,0.0
 Jack Stoll,TE,PHI,CAR,5,2500,0.0
-Derek Watt,FB,PIT,DEN,5,4000,0.0
+Derek Watt,RB,PIT,DEN,5,4000,0.0
 Kalen Ballage,RB,PIT,DEN,5,4000,0.0
 James Washington,WR,PIT,DEN,5,4200,0.0
 Cody White,WR,PIT,DEN,5,3000,0.0
@@ -1669,7 +1669,7 @@ Damiere Byrd,WR,CHI,LV,5,3000,0.0
 Jakeem Grant Sr.,WR,CHI,LV,5,3000,0.0
 J.P. Holtz,TE,CHI,LV,5,2500,0.0
 Ryan Nall,RB,CHI,LV,5,4000,0.0
-Andy Janovich,FB,CLE,LAC,5,4000,0.0
+Andy Janovich,RB,CLE,LAC,5,4000,0.0
 D'Ernest Johnson,RB,CLE,LAC,5,4000,0.0
 Harrison Bryant,TE,CLE,LAC,5,2500,0.0
 Demetric Felton,RB,CLE,LAC,5,4000,0.0
@@ -1678,10 +1678,10 @@ Stephen Anderson,TE,LAC,CLE,5,2500,0.0
 Justin Jackson,RB,LAC,CLE,5,4000,0.0
 KJ Hill Jr.,WR,LAC,CLE,5,3000,0.0
 Larry Rountree III,RB,LAC,CLE,5,4600,0.0
-Gabe Nabers,FB,LAC,CLE,5,4000,0.0
+Gabe Nabers,RB,LAC,CLE,5,4000,0.0
 Tre' McKitty,TE,LAC,CLE,5,2500,0.0
 Peyton Barber,RB,LV,CHI,5,5100,0.0
-Alec Ingold,FB,LV,CHI,5,4000,0.0
+Alec Ingold,RB,LV,CHI,5,4000,0.0
 Foster Moreau,TE,LV,CHI,5,2800,0.0
 Nick Bowers,TE,LV,CHI,5,2500,0.0
 Demetrius Harris,TE,ARI,SF,5,2500,0.0
@@ -1696,12 +1696,12 @@ Blake Jarwin,TE,DAL,NYG,5,3200,0.0
 Corey Clement,RB,DAL,NYG,5,4000,0.0
 Malik Turner,WR,DAL,NYG,5,3000,0.0
 Simi Fehoko,WR,DAL,NYG,5,3000,0.0
-Nick Ralston,FB,DAL,NYG,5,2500,0.0
+Nick Ralston,RB,DAL,NYG,5,2500,0.0
 Sterling Shepard,WR,NYG,DAL,5,5300,0.0
 Kenny Golladay,WR,NYG,DAL,5,5900,0.0
 Darius Slayton,WR,NYG,DAL,5,4100,0.0
 Kaden Smith,TE,NYG,DAL,5,2500,0.0
-Cullen Gillaspia,FB,NYG,DAL,5,4000,0.0
+Cullen Gillaspia,RB,NYG,DAL,5,4000,0.0
 Collin Johnson,WR,NYG,DAL,5,3000,0.0
 Gary Brightwell,RB,NYG,DAL,5,4000,0.0
 Travis Benjamin,WR,SF,ARI,5,3000,0.0
@@ -1719,7 +1719,7 @@ Daurice Fountain,WR,KC,BUF,5,3000,0.0
 Jody Fortson,WR,KC,BUF,5,2500,0.0
 Noah Gray,TE,KC,BUF,5,2500,0.0
 Eric Tomlinson,TE,BAL,IND,5,2500,0.0
-Patrick Ricard,FB,BAL,IND,5,4000,0.0
+Patrick Ricard,RB,BAL,IND,5,4000,0.0
 Miles Boykin,WR,BAL,IND,5,3000,0.0
 Tylan Wallace,WR,BAL,IND,5,3000,0.0
 Jordan Wilkins,RB,IND,BAL,5,4000,0.0
@@ -1892,7 +1892,7 @@ Demetric Felton,RB,CLE,ARI,6,4000,3.4
 Dede Westbrook,WR,MIN,CAR,6,3000,3.3
 Nyheim Hines,RB,IND,HOU,6,4800,3.2
 Luke Farrell,TE,JAX,MIA,6,2500,3.1
-C.J. Ham,FB,MIN,CAR,6,4000,3.0
+C.J. Ham,RB,MIN,CAR,6,4000,3.0
 Robert Tonyan,TE,GB,CHI,6,3800,3.0
 Donald Parham Jr.,TE,LAC,BAL,6,2900,3.0
 KhaDarel Hodge,WR,DET,CIN,6,3000,2.9
@@ -1927,10 +1927,10 @@ Justin Jackson,RB,LAC,BAL,6,4000,1.7
 John Bates,TE,WAS,KC,6,2500,1.7
 Chester Rogers,WR,TEN,BUF,6,3500,1.7
 Miles Boykin,WR,BAL,LAC,6,3000,1.6
-Gabe Nabers,FB,LAC,BAL,6,4000,1.6
+Gabe Nabers,RB,LAC,BAL,6,4000,1.6
 DeSean Jackson,WR,LAR,NYG,6,3700,1.6
 David Njoku,TE,CLE,ARI,6,3700,1.6
-Johnny Stanton,FB,CLE,ARI,6,4000,1.6
+Johnny Stanton,RB,CLE,ARI,6,4000,1.6
 Freddie Swain,WR,SEA,PIT,6,3400,1.6
 Kalen Ballage,RB,PIT,SEA,6,4000,1.5
 Jonathan Ward,RB,ARI,CLE,6,4000,1.4
@@ -1977,12 +1977,12 @@ Kirk Merritt,WR,MIA,JAX,6,3000,0.0
 Hunter Long,TE,MIA,JAX,6,2500,0.0
 Sammy Watkins,WR,BAL,LAC,6,4300,0.0
 Eric Tomlinson,TE,BAL,LAC,6,2500,0.0
-Patrick Ricard,FB,BAL,LAC,6,4000,0.0
+Patrick Ricard,RB,BAL,LAC,6,4000,0.0
 James Proche II,WR,BAL,LAC,6,3000,0.0
 Ty'Son Williams,RB,BAL,LAC,6,4900,0.0
 Tylan Wallace,WR,BAL,LAC,6,3000,0.0
 Colin Thompson,TE,CAR,MIN,6,2500,0.0
-Giovanni Ricci,FB,CAR,MIN,6,4000,0.0
+Giovanni Ricci,RB,CAR,MIN,6,4000,0.0
 Spencer Brown,RB,CAR,MIN,6,4000,0.0
 Jimmy Graham,TE,CHI,GB,6,2500,0.0
 Damien Williams,RB,CHI,GB,6,5800,0.0
@@ -2002,7 +2002,7 @@ Trenton Irwin,WR,CIN,DET,6,3000,0.0
 Mitchell Wilcox,TE,CIN,DET,6,2500,0.0
 Darren Fells,TE,DET,CIN,6,2500,0.0
 Geronimo Allison,WR,DET,CIN,6,3000,0.0
-Jason Cabinda,FB,DET,CIN,6,4000,0.0
+Jason Cabinda,RB,DET,CIN,6,4000,0.0
 Godwin Igwebuike,RB,DET,CIN,6,4000,0.0
 Trinity Benson,WR,DET,CIN,6,3000,0.0
 Jermar Jefferson,RB,DET,CIN,6,4000,0.0
@@ -2026,7 +2026,7 @@ Mike Strachan,WR,IND,HOU,6,3000,0.0
 Kylen Granson,TE,IND,HOU,6,2500,0.0
 Josh Gordon,WR,KC,WAS,6,3400,0.0
 Blake Bell,TE,KC,WAS,6,2500,0.0
-Michael Burton,FB,KC,WAS,6,4000,0.0
+Michael Burton,RB,KC,WAS,6,4000,0.0
 Marcus Kemp,WR,KC,WAS,6,3000,0.0
 Derrick Gore,RB,KC,WAS,6,4000,0.0
 Noah Gray,TE,KC,WAS,6,2500,0.0
@@ -2050,7 +2050,7 @@ C.J. Board,WR,NYG,LAR,6,3000,0.0
 Saquon Barkley,RB,NYG,LAR,6,6800,0.0
 Darius Slayton,WR,NYG,LAR,6,3800,0.0
 Kaden Smith,TE,NYG,LAR,6,2500,0.0
-Cullen Gillaspia,FB,NYG,LAR,6,4000,0.0
+Cullen Gillaspia,RB,NYG,LAR,6,4000,0.0
 Gary Brightwell,RB,NYG,LAR,6,4000,0.0
 DeAndre Carter,WR,WAS,KC,6,3000,0.0
 Curtis Samuel,WR,WAS,KC,6,3500,0.0
@@ -2072,7 +2072,7 @@ Jeremy Sprinkle,TE,DAL,NE,6,2500,0.0
 Corey Clement,RB,DAL,NE,6,4000,0.0
 Malik Turner,WR,DAL,NE,6,3000,0.0
 Simi Fehoko,WR,DAL,NE,6,3000,0.0
-Nick Ralston,FB,DAL,NE,6,2500,0.0
+Nick Ralston,RB,DAL,NE,6,2500,0.0
 John Brown,WR,DEN,LV,6,300,0.0
 David Moore,WR,DEN,LV,6,3000,0.0
 Diontae Spencer,WR,DEN,LV,6,3000,0.0
@@ -2082,19 +2082,19 @@ Tyrie Cleveland,WR,DEN,LV,6,3000,0.0
 Willie Snead IV,WR,LV,DEN,6,3000,0.0
 Peyton Barber,RB,LV,DEN,6,4400,0.0
 Zay Jones,WR,LV,DEN,6,3000,0.0
-Alec Ingold,FB,LV,DEN,6,4000,0.0
+Alec Ingold,RB,LV,DEN,6,4000,0.0
 Nick Bowers,TE,LV,DEN,6,2500,0.0
 Matthew Slater,WR,NE,DAL,6,3000,0.0
 N'Keal Harry,WR,NE,DAL,6,3000,0.0
-Jakob Johnson,FB,NE,DAL,6,4000,0.0
+Jakob Johnson,RB,NE,DAL,6,4000,0.0
 Gunner Olszewski,WR,NE,DAL,6,3000,0.0
 Devin Asiasi,TE,NE,DAL,6,2500,0.0
 J.J. Taylor,RB,NE,DAL,6,4100,0.0
-Derek Watt,FB,PIT,SEA,6,4000,0.0
+Derek Watt,RB,PIT,SEA,6,4000,0.0
 Zach Gentry,TE,PIT,SEA,6,2500,0.0
 Benny Snell Jr.,RB,PIT,SEA,6,4000,0.0
 Cody White,WR,PIT,SEA,6,3000,0.0
-Nick Bellore,FB,SEA,PIT,6,4000,0.0
+Nick Bellore,RB,SEA,PIT,6,4000,0.0
 Colby Parkinson,TE,SEA,PIT,6,2500,0.0
 Tyler Mabry,TE,SEA,PIT,6,2500,0.0
 Taiwan Jones,RB,BUF,TEN,6,4000,0.0
@@ -2108,7 +2108,7 @@ Jeremy McNichols,RB,TEN,BUF,6,4800,0.0
 Cameron Batson,WR,TEN,BUF,6,3000,0.0
 Khari Blasingame,RB,TEN,BUF,6,4000,0.0
 Mekhi Sargent,RB,TEN,BUF,6,4000,0.0
-Tory Carter,FB,TEN,BUF,6,4000,0.0
+Tory Carter,RB,TEN,BUF,6,4000,0.0
 Cooper Kupp,WR,LAR,DET,7,8400,40.6
 Ja'Marr Chase,WR,CIN,BAL,7,6200,37.1
 Alvin Kamara,RB,NO,SEA,7,8900,36.9
@@ -2204,7 +2204,7 @@ Darrel Williams,RB,KC,TEN,7,5800,8.0
 Tyler Boyd,WR,CIN,BAL,7,4700,7.9
 Mark Andrews,TE,BAL,CIN,7,6000,7.8
 Jonnu Smith,TE,NE,NYJ,7,2800,7.7
-Johnny Stanton,FB,CLE,DEN,7,4000,7.6
+Johnny Stanton,RB,CLE,DEN,7,4000,7.6
 Antonio Gibson,RB,WAS,GB,7,5900,7.6
 Jamison Crowder,WR,NYJ,NE,7,4900,7.4
 Salvon Ahmed,RB,MIA,ATL,7,4000,7.2
@@ -2232,7 +2232,7 @@ Zay Jones,WR,LV,PHI,7,3000,5.3
 Ronald Jones II,RB,TB,CHI,7,4200,5.3
 Josh Reynolds,WR,TEN,KC,7,3000,5.3
 Gerald Everett,TE,SEA,NO,7,3000,5.3
-Jakob Johnson,FB,NE,NYJ,7,4000,5.2
+Jakob Johnson,RB,NE,NYJ,7,4000,5.2
 Randall Cobb,WR,GB,WAS,7,4000,5.2
 Charlie Woerner,TE,SF,IND,7,2500,5.0
 Jesse James,TE,CHI,TB,7,2500,5.0
@@ -2247,7 +2247,7 @@ Zach Pascal,WR,IND,SF,7,4300,4.4
 Odell Beckham Jr.,WR,CLE,DEN,7,5000,4.3
 DeAndre Carter,WR,WAS,GB,7,3000,4.1
 Pharaoh Brown,TE,HOU,ARI,7,2600,4.1
-Alec Ingold,FB,LV,PHI,7,4000,4.0
+Alec Ingold,RB,LV,PHI,7,4000,4.0
 Anthony Schwartz,WR,CLE,DEN,7,3000,4.0
 N'Keal Harry,WR,NE,NYJ,7,3000,3.8
 David Njoku,TE,CLE,DEN,7,3300,3.8
@@ -2294,7 +2294,7 @@ Lee Smith,TE,ATL,MIA,7,2500,1.7
 Demarcus Robinson,WR,KC,TEN,7,3400,1.7
 Derrick Gore,RB,KC,TEN,7,4000,1.7
 Collin Johnson,WR,NYG,CAR,7,3000,1.7
-Keith Smith,FB,ATL,MIA,7,4000,1.6
+Keith Smith,RB,ATL,MIA,7,4000,1.6
 Keelan Cole,WR,NYJ,NE,7,3000,1.6
 Denzel Mims,WR,NYJ,NE,7,3000,1.6
 Darren Fells,TE,DET,LAR,7,2500,1.6
@@ -2325,7 +2325,7 @@ Marlon Mack,RB,IND,SF,7,4000,0.4
 Ty Montgomery,WR,NO,SEA,7,3000,0.4
 Wayne Gallman,RB,ATL,MIA,7,4000,0.2
 Kylin Hill,RB,GB,WAS,7,4000,0.2
-Alex Armah,FB,NO,SEA,7,4000,0.2
+Alex Armah,RB,NO,SEA,7,4000,0.2
 Nick Chubb,RB,CLE,DEN,7,7000,0.0
 Donovan Peoples-Jones,WR,CLE,DEN,7,4100,0.0
 John Brown,WR,DEN,CLE,7,3000,0.0
@@ -2339,7 +2339,7 @@ Frank Darby,WR,ATL,MIA,7,3000,0.0
 Latavius Murray,RB,BAL,CIN,7,5800,0.0
 Sammy Watkins,WR,BAL,CIN,7,4500,0.0
 Eric Tomlinson,TE,BAL,CIN,7,2500,0.0
-Patrick Ricard,FB,BAL,CIN,7,4000,0.0
+Patrick Ricard,RB,BAL,CIN,7,4000,0.0
 Miles Boykin,WR,BAL,CIN,7,3000,0.0
 James Proche II,WR,BAL,CIN,7,3000,0.0
 Tylan Wallace,WR,BAL,CIN,7,3000,0.0
@@ -2347,7 +2347,7 @@ Ameer Abdullah,RB,CAR,NYG,7,0,0.0
 Alex Erickson,WR,CAR,NYG,7,3000,0.0
 Colin Thompson,TE,CAR,NYG,7,2500,0.0
 Ian Thomas,TE,CAR,NYG,7,2900,0.0
-Giovanni Ricci,FB,CAR,NYG,7,4000,0.0
+Giovanni Ricci,RB,CAR,NYG,7,4000,0.0
 Aaron Parker,WR,CAR,NYG,7,3000,0.0
 Terrace Marshall Jr.,WR,CAR,NYG,7,3200,0.0
 Mike Thomas,WR,CIN,BAL,7,3000,0.0
@@ -2363,7 +2363,7 @@ Tyler Davis,TE,GB,WAS,7,2500,0.0
 Amari Rodgers,WR,GB,WAS,7,3000,0.0
 Josh Gordon,WR,KC,TEN,7,3200,0.0
 Blake Bell,TE,KC,TEN,7,2500,0.0
-Michael Burton,FB,KC,TEN,7,4000,0.0
+Michael Burton,RB,KC,TEN,7,4000,0.0
 Albert Wilson,WR,MIA,ATL,7,3000,0.0
 DeVante Parker,WR,MIA,ATL,7,5000,0.0
 Cethan Carter,TE,MIA,ATL,7,2500,0.0
@@ -2376,7 +2376,7 @@ Kenny Golladay,WR,NYG,CAR,7,5700,0.0
 Saquon Barkley,RB,NYG,CAR,7,6700,0.0
 David Sills V,WR,NYG,CAR,7,3000,0.0
 Kaden Smith,TE,NYG,CAR,7,2500,0.0
-Cullen Gillaspia,FB,NYG,CAR,7,4000,0.0
+Cullen Gillaspia,RB,NYG,CAR,7,4000,0.0
 Kadarius Toney,WR,NYG,CAR,7,5200,0.0
 Gary Brightwell,RB,NYG,CAR,7,4000,0.0
 Tevin Coleman,RB,NYJ,NE,7,4000,0.0
@@ -2399,7 +2399,7 @@ John Bates,TE,WAS,GB,7,2500,0.0
 Dyami Brown,WR,WAS,GB,7,3600,0.0
 Sammis Reyes,TE,WAS,GB,7,2500,0.0
 Geronimo Allison,WR,DET,LAR,7,3000,0.0
-Jason Cabinda,FB,DET,LAR,7,4000,0.0
+Jason Cabinda,RB,DET,LAR,7,4000,0.0
 Godwin Igwebuike,RB,DET,LAR,7,4000,0.0
 Trinity Benson,WR,DET,LAR,7,3000,0.0
 Tom Kennedy,WR,DET,LAR,7,3000,0.0
@@ -2448,7 +2448,7 @@ Jordan Wilkins,RB,IND,SF,7,4000,0.0
 Mike Strachan,WR,IND,SF,7,3000,0.0
 Kylen Granson,TE,IND,SF,7,2500,0.0
 Travis Benjamin,WR,SF,IND,7,3000,0.0
-Kyle Juszczyk,FB,SF,IND,7,4200,0.0
+Kyle Juszczyk,RB,SF,IND,7,4200,0.0
 Trenton Cannon,RB,SF,IND,7,4000,0.0
 Tanner Hudson,TE,SF,IND,7,2500,0.0
 Jauan Jennings,WR,SF,IND,7,3000,0.0
@@ -2459,7 +2459,7 @@ Dwayne Washington,RB,NO,SEA,7,4000,0.0
 Garrett Griffin,TE,NO,SEA,7,2500,0.0
 Lil'Jordan Humphrey,WR,NO,SEA,7,3000,0.0
 Deonte Harris,WR,NO,SEA,7,4300,0.0
-Nick Bellore,FB,SEA,NO,7,4000,0.0
+Nick Bellore,RB,SEA,NO,7,4000,0.0
 Will Dissly,TE,SEA,NO,7,2800,0.0
 Penny Hart,WR,SEA,NO,7,3000,0.0
 DeeJay Dallas,RB,SEA,NO,7,4300,0.0
@@ -2585,7 +2585,7 @@ Kadarius Toney,WR,NYG,KC,8,4900,7.36
 Leonard Fournette,RB,TB,NO,8,6300,7.3
 C.J. Uzomah,TE,CIN,NYJ,8,3700,7.3
 Mark Ingram II,RB,NO,TB,8,4100,7.2
-Alex Armah,FB,NO,TB,8,4000,7.1
+Alex Armah,RB,NO,TB,8,4000,7.1
 Juwann Winfree,WR,GB,ARI,8,3000,7.0
 David Njoku,TE,CLE,PIT,8,3000,6.9
 Zach Gentry,TE,PIT,CLE,8,2500,6.9
@@ -2644,7 +2644,7 @@ Cameron Brate,TE,TB,NO,8,3000,3.5
 Chris Conley,WR,HOU,LAR,8,3000,3.4
 Kyle Pitts,TE,ATL,CAR,8,6300,3.3
 Jonnu Smith,TE,NE,LAC,8,2800,3.3
-C.J. Ham,FB,MIN,DAL,8,4000,3.3
+C.J. Ham,RB,MIN,DAL,8,4000,3.3
 Dax Milne,WR,WAS,DEN,8,3000,3.2
 Equanimeous St. Brown,WR,GB,ARI,8,3000,3.2
 Ricky Seals-Jones,TE,WAS,DEN,8,3800,3.2
@@ -2670,7 +2670,7 @@ Adam Trautman,TE,NO,TB,8,2700,2.4
 Danny Amendola,WR,HOU,LAR,8,3000,2.3
 Olamide Zaccheaus,WR,ATL,CAR,8,3400,2.2
 Byron Pringle,WR,KC,NYG,8,3700,2.2
-Kyle Juszczyk,FB,SF,CHI,8,4200,2.1
+Kyle Juszczyk,RB,SF,CHI,8,4200,2.1
 Ian Thomas,TE,CAR,ATL,8,2900,2.0
 Patrick Laird,RB,MIA,BUF,8,4000,2.0
 Tyron Johnson,WR,JAX,SEA,8,3000,2.0
@@ -2695,7 +2695,7 @@ Ty Montgomery,WR,NO,TB,8,3000,1.4
 John Bates,TE,WAS,DEN,8,2500,1.4
 David Johnson,RB,HOU,LAR,8,4200,1.3
 Luke Farrell,TE,JAX,SEA,8,2500,1.3
-Jakob Johnson,FB,NE,LAC,8,4000,1.2
+Jakob Johnson,RB,NE,LAC,8,4000,1.2
 Gerald Everett,TE,SEA,JAX,8,3300,1.2
 Buddy Howell,RB,LAR,HOU,8,4000,1.1
 Larry Rountree III,RB,LAC,NE,8,4400,1.1
@@ -2721,7 +2721,7 @@ Kylin Hill,RB,GB,ARI,8,4000,0.0
 Tyler Davis,TE,GB,ARI,8,2500,0.0
 Dominique Dafney,TE,GB,ARI,8,2500,0.0
 Lee Smith,TE,ATL,CAR,8,2500,0.0
-Keith Smith,FB,ATL,CAR,8,4000,0.0
+Keith Smith,RB,ATL,CAR,8,4000,0.0
 Wayne Gallman,RB,ATL,CAR,8,4000,0.0
 Calvin Ridley,WR,ATL,CAR,8,6600,0.0
 Russell Gage,WR,ATL,CAR,8,4200,0.0
@@ -2739,7 +2739,7 @@ Robby Anderson,WR,CAR,ATL,8,4700,0.0
 Alex Erickson,WR,CAR,ATL,8,3000,0.0
 Colin Thompson,TE,CAR,ATL,8,2500,0.0
 Keith Kirkwood,WR,CAR,ATL,8,3000,0.0
-Giovanni Ricci,FB,CAR,ATL,8,4000,0.0
+Giovanni Ricci,RB,CAR,ATL,8,4000,0.0
 Terrace Marshall Jr.,WR,CAR,ATL,8,3200,0.0
 Jimmy Graham,TE,CHI,SF,8,2500,0.0
 Breshad Perriman,WR,CHI,SF,8,3000,0.0
@@ -2756,14 +2756,14 @@ Trenton Irwin,WR,CIN,NYJ,8,3000,0.0
 Mitchell Wilcox,TE,CIN,NYJ,8,2500,0.0
 Chris Evans,RB,CIN,NYJ,8,4000,0.0
 John Kelly,RB,CLE,PIT,8,4000,0.0
-Johnny Stanton,FB,CLE,PIT,8,4000,0.0
+Johnny Stanton,RB,CLE,PIT,8,4000,0.0
 Donovan Peoples-Jones,WR,CLE,PIT,8,4200,0.0
 Anthony Schwartz,WR,CLE,PIT,8,3000,0.0
 Darren Fells,TE,DET,PHI,8,2500,0.0
 Geronimo Allison,WR,DET,PHI,8,3000,0.0
 Kalif Raymond,WR,DET,PHI,8,5300,0.0
 Jamaal Williams,RB,DET,PHI,8,4700,0.0
-Jason Cabinda,FB,DET,PHI,8,4000,0.0
+Jason Cabinda,RB,DET,PHI,8,4000,0.0
 KhaDarel Hodge,WR,DET,PHI,8,3000,0.0
 Trinity Benson,WR,DET,PHI,8,3000,0.0
 Tom Kennedy,WR,DET,PHI,8,3000,0.0
@@ -2796,7 +2796,7 @@ Richard Rodgers,TE,PHI,DET,8,2500,0.0
 Greg Ward,WR,PHI,DET,8,3000,0.0
 J.J. Arcega-Whiteside,WR,PHI,DET,8,3000,0.0
 Eric Ebron,TE,PIT,CLE,8,3100,0.0
-Derek Watt,FB,PIT,CLE,8,4000,0.0
+Derek Watt,RB,PIT,CLE,8,4000,0.0
 Cody White,WR,PIT,CLE,8,3000,0.0
 Travis Benjamin,WR,SF,CHI,8,3000,0.0
 Jordan Matthews,TE,SF,CHI,8,2500,0.0
@@ -2810,20 +2810,20 @@ Chester Rogers,WR,TEN,IND,8,3200,0.0
 Josh Reynolds,WR,TEN,IND,8,3000,0.0
 Dontrell Hilliard,RB,TEN,IND,8,0,0.0
 Khari Blasingame,RB,TEN,IND,8,4000,0.0
-Tory Carter,FB,TEN,IND,8,4000,0.0
+Tory Carter,RB,TEN,IND,8,4000,0.0
 Chris Manhertz,TE,JAX,SEA,8,2500,0.0
 Jacob Hollister,TE,JAX,SEA,8,2500,0.0
 Andre Roberts,WR,LAC,NE,8,3000,0.0
 Stephen Anderson,TE,LAC,NE,8,2500,0.0
 Donald Parham Jr.,TE,LAC,NE,8,2600,0.0
 Joshua Kelley,RB,LAC,NE,8,4000,0.0
-Gabe Nabers,FB,LAC,NE,8,4000,0.0
+Gabe Nabers,RB,LAC,NE,8,4000,0.0
 Tre' McKitty,TE,LAC,NE,8,2500,0.0
 Matthew Slater,WR,NE,LAC,8,3000,0.0
 Gunner Olszewski,WR,NE,LAC,8,3000,0.0
 Devin Asiasi,TE,NE,LAC,8,2500,0.0
 J.J. Taylor,RB,NE,LAC,8,4200,0.0
-Nick Bellore,FB,SEA,JAX,8,4000,0.0
+Nick Bellore,RB,SEA,JAX,8,4000,0.0
 Will Dissly,TE,SEA,JAX,8,2500,0.0
 Penny Hart,WR,SEA,JAX,8,3000,0.0
 Colby Parkinson,TE,SEA,JAX,8,2500,0.0
@@ -2859,7 +2859,7 @@ Kene Nwangwu,RB,MIN,DAL,8,4000,0.0
 Josh Gordon,WR,KC,NYG,8,3000,0.0
 Jerick McKinnon,RB,KC,NYG,8,4000,0.0
 Blake Bell,TE,KC,NYG,8,2500,0.0
-Michael Burton,FB,KC,NYG,8,4000,0.0
+Michael Burton,RB,KC,NYG,8,4000,0.0
 Marcus Kemp,WR,KC,NYG,8,3000,0.0
 Noah Gray,TE,KC,NYG,8,2500,0.0
 Kenny Golladay,WR,NYG,KC,8,5500,0.0
@@ -2867,7 +2867,7 @@ Saquon Barkley,RB,NYG,KC,8,7000,0.0
 Dante Pettis,WR,NYG,KC,8,3500,0.0
 Darius Slayton,WR,NYG,KC,8,4800,0.0
 Kaden Smith,TE,NYG,KC,8,2500,0.0
-Cullen Gillaspia,FB,NYG,KC,8,4000,0.0
+Cullen Gillaspia,RB,NYG,KC,8,4000,0.0
 Gary Brightwell,RB,NYG,KC,8,4000,0.0
 Damien Williams,RB,CHI,SF,8,5300,-0.3
 Kalen Ballage,RB,PIT,CLE,8,4000,-0.3
@@ -2926,7 +2926,7 @@ Evan Engram,TE,NYG,LV,9,3800,12.8
 Ryan Griffin,TE,NYJ,IND,9,2500,12.8
 Rhamondre Stevenson,RB,NE,CAR,9,4200,12.6
 Ezekiel Elliott,RB,DAL,DEN,9,7000,12.6
-Patrick Ricard,FB,BAL,MIN,9,4000,12.5
+Patrick Ricard,RB,BAL,MIN,9,4000,12.5
 Diontae Johnson,WR,PIT,CHI,9,6700,11.7
 Keelan Cole,WR,NYJ,IND,9,3000,11.6
 Brandin Cooks,WR,HOU,MIA,9,6100,11.6
@@ -3001,7 +3001,7 @@ Laviska Shenault Jr.,WR,JAX,BUF,9,4400,6.0
 Kyle Rudolph,TE,NYG,LV,9,2600,6.0
 Tyler Kroft,TE,NYJ,IND,9,2800,5.8
 Chris Conley,WR,HOU,MIA,9,3100,5.8
-Alec Ingold,FB,LV,NYG,9,4000,5.8
+Alec Ingold,RB,LV,NYG,9,4000,5.8
 Samaje Perine,RB,CIN,CLE,9,4600,5.7
 Amari Cooper,WR,DAL,DEN,9,5700,5.7
 Zach Ertz,TE,ARI,SF,9,4700,5.7
@@ -3032,12 +3032,12 @@ Mo Alie-Cox,TE,IND,NYJ,9,3300,3.8
 Jimmy Graham,TE,CHI,PIT,9,2500,3.8
 Jalen Richard,RB,LV,NYG,9,4500,3.8
 Kylen Granson,TE,IND,NYJ,9,2500,3.7
-C.J. Ham,FB,MIN,BAL,9,4000,3.7
+C.J. Ham,RB,MIN,BAL,9,4000,3.7
 Trevon Wesco,TE,NYJ,IND,9,2500,3.6
 Hayden Hurst,TE,ATL,NO,9,3000,3.6
 Josiah Deguara,TE,GB,KC,9,2500,3.6
 Austin Hooper,TE,CLE,CIN,9,3200,3.4
-Kyle Juszczyk,FB,SF,ARI,9,4000,3.4
+Kyle Juszczyk,RB,SF,ARI,9,4000,3.4
 Demetric Felton,RB,CLE,CIN,9,4300,3.2
 Denzel Mims,WR,NYJ,IND,9,3000,3.0
 Zay Jones,WR,LV,NYG,9,3000,3.0
@@ -3081,8 +3081,8 @@ Mohamed Sanu Sr.,WR,SF,ARI,9,3400,1.5
 Chris Moore,WR,HOU,MIA,9,3000,1.4
 Khalil Herbert,RB,CHI,PIT,9,5300,1.3
 Alexander Mattison,RB,MIN,BAL,9,5100,1.3
-Derek Watt,FB,PIT,CHI,9,4000,1.3
-Alex Armah,FB,NO,ATL,9,4000,1.2
+Derek Watt,RB,PIT,CHI,9,4000,1.3
+Alex Armah,RB,NO,ATL,9,4000,1.2
 Robby Anderson,WR,CAR,NE,9,4500,1.2
 Demarcus Robinson,WR,KC,GB,9,3400,1.2
 Kalen Ballage,RB,PIT,CHI,9,4000,1.2
@@ -3106,7 +3106,7 @@ Tevin Coleman,RB,NYJ,IND,9,4000,0.0
 Corey Davis,WR,NYJ,IND,9,5100,0.0
 La'Mical Perine,RB,NYJ,IND,9,4000,0.0
 Lee Smith,TE,ATL,NO,9,2500,0.0
-Keith Smith,FB,ATL,NO,9,4000,0.0
+Keith Smith,RB,ATL,NO,9,4000,0.0
 Wayne Gallman,RB,ATL,NO,9,4000,0.0
 Christian Blake,WR,ATL,NO,9,3000,0.0
 Qadree Ollison,RB,ATL,NO,9,4000,0.0
@@ -3129,7 +3129,7 @@ Quintin Morris,TE,BUF,JAX,9,2500,0.0
 Alex Erickson,WR,CAR,NE,9,3000,0.0
 Colin Thompson,TE,CAR,NE,9,2500,0.0
 Royce Freeman,RB,CAR,NE,9,4000,0.0
-Giovanni Ricci,FB,CAR,NE,9,4000,0.0
+Giovanni Ricci,RB,CAR,NE,9,4000,0.0
 Shi Smith,WR,CAR,NE,9,3000,0.0
 Terrace Marshall Jr.,WR,CAR,NE,9,3200,0.0
 Auden Tate,WR,CIN,CLE,9,3000,0.0
@@ -3138,7 +3138,7 @@ Trenton Irwin,WR,CIN,CLE,9,3000,0.0
 Mitchell Wilcox,TE,CIN,CLE,9,2500,0.0
 Odell Beckham Jr.,WR,CLE,CIN,9,4500,0.0
 Rashard Higgins,WR,CLE,CIN,9,3400,0.0
-Andy Janovich,FB,CLE,CIN,9,4000,0.0
+Andy Janovich,RB,CLE,CIN,9,4000,0.0
 John Kelly,RB,CLE,CIN,9,4000,0.0
 Miller Forristall,TE,CLE,CIN,9,2500,0.0
 Jeremy Sprinkle,TE,DAL,DEN,9,2500,0.0
@@ -3178,7 +3178,7 @@ Ihmir Smith-Marsette,WR,MIN,BAL,9,3000,0.0
 Matthew Slater,WR,NE,CAR,9,3000,0.0
 Nelson Agholor,WR,NE,CAR,9,4100,0.0
 N'Keal Harry,WR,NE,CAR,9,3000,0.0
-Jakob Johnson,FB,NE,CAR,9,4000,0.0
+Jakob Johnson,RB,NE,CAR,9,4000,0.0
 Gunner Olszewski,WR,NE,CAR,9,3000,0.0
 Devin Asiasi,TE,NE,CAR,9,2500,0.0
 J.J. Taylor,RB,NE,CAR,9,4100,0.0
@@ -3195,12 +3195,12 @@ John Ross,WR,NYG,LV,9,3200,0.0
 Saquon Barkley,RB,NYG,LV,9,6800,0.0
 Darius Slayton,WR,NYG,LV,9,4800,0.0
 Kaden Smith,TE,NYG,LV,9,2500,0.0
-Cullen Gillaspia,FB,NYG,LV,9,4000,0.0
+Cullen Gillaspia,RB,NYG,LV,9,4000,0.0
 Collin Johnson,WR,NYG,LV,9,3000,0.0
 Gary Brightwell,RB,NYG,LV,9,4500,0.0
 Justin Jackson,RB,LAC,PHI,9,4000,0.0
 Maurice Ffrench,WR,LAC,PHI,9,3000,0.0
-Gabe Nabers,FB,LAC,PHI,9,4000,0.0
+Gabe Nabers,RB,LAC,PHI,9,4000,0.0
 Tre' McKitty,TE,LAC,PHI,9,2500,0.0
 Greg Ward,WR,PHI,LAC,9,3200,0.0
 J.J. Arcega-Whiteside,WR,PHI,LAC,9,3000,0.0
@@ -3221,7 +3221,7 @@ Dominique Dafney,TE,GB,KC,9,2500,0.0
 Amari Rodgers,WR,GB,KC,9,3000,0.0
 Josh Gordon,WR,KC,GB,9,3000,0.0
 Blake Bell,TE,KC,GB,9,2500,0.0
-Michael Burton,FB,KC,GB,9,4000,0.0
+Michael Burton,RB,KC,GB,9,4000,0.0
 Daniel Brown,TE,KC,GB,9,2500,0.0
 Marcus Kemp,WR,KC,GB,9,3000,0.0
 Byron Pringle,WR,KC,GB,9,3700,0.0
@@ -3243,7 +3243,7 @@ Jacob Harris,WR,LAR,TEN,9,2500,0.0
 MyCole Pruitt,TE,TEN,LAR,9,2500,0.0
 Chester Rogers,WR,TEN,LAR,9,3100,0.0
 Josh Reynolds,WR,TEN,LAR,9,3000,0.0
-Tory Carter,FB,TEN,LAR,9,4000,0.0
+Tory Carter,RB,TEN,LAR,9,4000,0.0
 Damien Williams,RB,CHI,PIT,9,4900,0.0
 Jesse James,TE,CHI,PIT,9,2500,0.0
 Damiere Byrd,WR,CHI,PIT,9,3000,0.0
@@ -3398,7 +3398,7 @@ Dallas Goedert,TE,PHI,DEN,10,4700,4.8
 Tyler Johnson,WR,TB,WAS,10,3300,4.7
 Tim Patrick,WR,DEN,PHI,10,4900,4.4
 Tyler Lockett,WR,SEA,GB,10,6500,4.3
-C.J. Ham,FB,MIN,LAC,10,4000,4.3
+C.J. Ham,RB,MIN,LAC,10,4000,4.3
 Jerick McKinnon,RB,KC,LV,10,4000,4.2
 Olamide Zaccheaus,WR,ATL,DAL,10,4400,4.2
 Will Dissly,TE,SEA,GB,10,2500,4.2
@@ -3447,7 +3447,7 @@ Terrace Marshall Jr.,WR,CAR,ARI,10,3200,2.0
 Nick Westbrook-Ikhine,WR,TEN,NO,10,3200,2.0
 Jared Cook,TE,LAC,MIN,10,3200,2.0
 Derrick Gore,RB,KC,LV,10,4000,1.9
-Derek Watt,FB,PIT,DET,10,4000,1.9
+Derek Watt,RB,PIT,DET,10,4000,1.9
 Chester Rogers,WR,TEN,NO,10,3100,1.9
 Mike Davis,RB,ATL,DAL,10,4600,1.8
 Giovani Bernard,RB,TB,WAS,10,4300,1.8
@@ -3456,10 +3456,10 @@ Ben Skowronek,WR,LAR,SF,10,3000,1.8
 Malik Turner,WR,DAL,ATL,10,3400,1.7
 Mo Alie-Cox,TE,IND,JAX,10,3100,1.6
 Allen Lazard,WR,GB,SEA,10,4400,1.6
-Kyle Juszczyk,FB,SF,LAR,10,4000,1.6
+Kyle Juszczyk,RB,SF,LAR,10,4000,1.6
 T.Y. Hilton,WR,IND,JAX,10,4700,1.5
 Adam Humphries,WR,WAS,TB,10,3500,1.5
-Alec Ingold,FB,LV,KC,10,4000,1.5
+Alec Ingold,RB,LV,KC,10,4000,1.5
 Carlos Hyde,RB,JAX,IND,10,5000,1.4
 A.J. Green,WR,ARI,CAR,10,4600,1.4
 Tyler Davis,TE,GB,SEA,10,2500,1.4
@@ -3480,16 +3480,16 @@ Patrick Taylor,RB,GB,SEA,10,4000,0.7
 Sammy Watkins,WR,BAL,MIA,10,4300,0.7
 Joshua Kelley,RB,LAC,MIN,10,4000,0.6
 Dee Eskridge,WR,SEA,GB,10,3000,0.6
-Keith Smith,FB,ATL,DAL,10,4000,0.5
+Keith Smith,RB,ATL,DAL,10,4000,0.5
 Benny Snell Jr.,RB,PIT,DET,10,4000,0.4
 Blake Bell,TE,KC,LV,10,2500,0.3
-Jason Cabinda,FB,DET,PIT,10,4000,0.2
+Jason Cabinda,RB,DET,PIT,10,4000,0.2
 Ty Montgomery,WR,NO,TEN,10,3000,0.2
 Le'Veon Bell,RB,BAL,MIA,10,4700,0.1
 Latavius Murray,RB,BAL,MIA,10,5400,0.0
 Nick Boyle,TE,BAL,MIA,10,2500,0.0
 Eric Tomlinson,TE,BAL,MIA,10,2500,0.0
-Patrick Ricard,FB,BAL,MIA,10,4000,0.0
+Patrick Ricard,RB,BAL,MIA,10,4000,0.0
 Josh Oliver,TE,BAL,MIA,10,2500,0.0
 Miles Boykin,WR,BAL,MIA,10,3000,0.0
 James Proche II,WR,BAL,MIA,10,3000,0.0
@@ -3511,12 +3511,12 @@ Tanner Gentry,WR,BUF,NYJ,10,0,0.0
 Tommy Sweeney,TE,BUF,NYJ,10,2600,0.0
 Reggie Gilliam,TE,BUF,NYJ,10,4000,0.0
 Rashard Higgins,WR,CLE,NE,10,3300,0.0
-Andy Janovich,FB,CLE,NE,10,4000,0.0
+Andy Janovich,RB,CLE,NE,10,4000,0.0
 Brian Hill,RB,CLE,NE,10,0,0.0
 JoJo Natson,WR,CLE,NE,10,3000,0.0
 Nick Chubb,RB,CLE,NE,10,7400,0.0
 John Kelly,RB,CLE,NE,10,4000,0.0
-Johnny Stanton,FB,CLE,NE,10,4000,0.0
+Johnny Stanton,RB,CLE,NE,10,4000,0.0
 Lawrence Cager,WR,CLE,NE,10,3000,0.0
 Ja'Marcus Bradley,WR,CLE,NE,10,3000,0.0
 Demetric Felton,RB,CLE,NE,10,4000,0.0
@@ -3543,7 +3543,7 @@ Matthew Slater,WR,NE,CLE,10,3000,0.0
 Matt LaCosse,TE,NE,CLE,10,2500,0.0
 Jonnu Smith,TE,NE,CLE,10,2500,0.0
 Damien Harris,RB,NE,CLE,10,5900,0.0
-Jakob Johnson,FB,NE,CLE,10,4000,0.0
+Jakob Johnson,RB,NE,CLE,10,4000,0.0
 Gunner Olszewski,WR,NE,CLE,10,3000,0.0
 Devin Asiasi,TE,NE,CLE,10,2500,0.0
 Kenny Stills,WR,NO,TEN,10,3300,0.0
@@ -3551,9 +3551,9 @@ Kevin White,WR,NO,TEN,10,3000,0.0
 Nick Vannett,TE,NO,TEN,10,2500,0.0
 Garrett Griffin,TE,NO,TEN,10,2500,0.0
 Alvin Kamara,RB,NO,TEN,10,8200,0.0
-Alex Armah,FB,NO,TEN,10,4000,0.0
+Alex Armah,RB,NO,TEN,10,4000,0.0
 Lil'Jordan Humphrey,WR,NO,TEN,10,3000,0.0
-Nick Bawden,FB,NYJ,BUF,10,4000,0.0
+Nick Bawden,RB,NYJ,BUF,10,4000,0.0
 Trevon Wesco,TE,NYJ,BUF,10,2500,0.0
 Jeff Smith,WR,NYJ,BUF,10,3000,0.0
 Denzel Mims,WR,NYJ,BUF,10,3000,0.0
@@ -3573,7 +3573,7 @@ Breshad Perriman,WR,TB,WAS,10,0,0.0
 O.J. Howard,TE,TB,WAS,10,2700,0.0
 Ronald Jones II,RB,TB,WAS,10,4000,0.0
 Ke'Shawn Vaughn,RB,TB,WAS,10,4000,0.0
-Tory Carter,FB,TEN,NO,10,4000,0.0
+Tory Carter,RB,TEN,NO,10,4000,0.0
 Curtis Samuel,WR,WAS,TB,10,4100,0.0
 Antonio Gandy-Golden,WR,WAS,TB,10,3000,0.0
 Dyami Brown,WR,WAS,TB,10,3100,0.0
@@ -3589,14 +3589,14 @@ Tavien Feaster,RB,ARI,CAR,10,4000,0.0
 Alex Erickson,WR,CAR,ARI,10,3000,0.0
 Colin Thompson,TE,CAR,ARI,10,2500,0.0
 Ian Thomas,TE,CAR,ARI,10,2500,0.0
-Giovanni Ricci,FB,CAR,ARI,10,4000,0.0
+Giovanni Ricci,RB,CAR,ARI,10,4000,0.0
 Shi Smith,WR,CAR,ARI,10,3000,0.0
 Andre Roberts,WR,LAC,MIN,10,3000,0.0
 Stephen Anderson,TE,LAC,MIN,10,2500,0.0
 Justin Jackson,RB,LAC,MIN,10,4000,0.0
 Jalen Guyton,WR,LAC,MIN,10,3600,0.0
 Maurice Ffrench,WR,LAC,MIN,10,3000,0.0
-Gabe Nabers,FB,LAC,MIN,10,4000,0.0
+Gabe Nabers,RB,LAC,MIN,10,4000,0.0
 Tre' McKitty,TE,LAC,MIN,10,2500,0.0
 Luke Stocker,TE,MIN,LAC,10,2500,0.0
 Dede Westbrook,WR,MIN,LAC,10,3000,0.0
@@ -3618,14 +3618,14 @@ Amari Rodgers,WR,GB,SEA,10,3000,0.0
 Greg Ward,WR,PHI,DEN,10,3200,0.0
 J.J. Arcega-Whiteside,WR,PHI,DEN,10,3000,0.0
 Tyree Jackson,TE,PHI,DEN,10,2500,0.0
-Nick Bellore,FB,SEA,GB,10,4000,0.0
+Nick Bellore,RB,SEA,GB,10,4000,0.0
 Rashaad Penny,RB,SEA,GB,10,4000,0.0
 Penny Hart,WR,SEA,GB,10,3000,0.0
 DeeJay Dallas,RB,SEA,GB,10,4100,0.0
 Colby Parkinson,TE,SEA,GB,10,2500,0.0
 Freddie Swain,WR,SEA,GB,10,3000,0.0
 Josh Gordon,WR,KC,LV,10,3000,0.0
-Michael Burton,FB,KC,LV,10,4000,0.0
+Michael Burton,RB,KC,LV,10,4000,0.0
 Daniel Brown,TE,KC,LV,10,2500,0.0
 Peyton Barber,RB,LV,KC,10,4200,0.0
 Daniel Helm,TE,LV,KC,10,2500,0.0
